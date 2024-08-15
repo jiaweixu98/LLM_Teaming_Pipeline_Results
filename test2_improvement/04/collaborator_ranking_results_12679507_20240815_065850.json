@@ -1,0 +1,322 @@
+[
+  {
+    "Name": "Sophie Staniszewska",
+    "ID": "9189496",
+    "Rank": 1,
+    "Reasons": {
+      "ExpertiseRelevance": "Sophie has significant expertise in patient experience and satisfaction, which can greatly aid in refining the survey instrument with open-ended questions and mixed-method approaches.",
+      "SignificanceAndNovelty": "Her work in understanding patient perspectives can provide innovative insights into enhancing survey participation and depth of analysis.",
+      "FairnessCriteria": "Her inclusion promotes gender diversity as she is female.",
+      "AcceptanceReasons": "Sophie's expertise directly addresses the need for qualitative insights and improved survey design, crucial for addressing reviewer feedback.",
+      "PotentialConcerns": "There are no significant concerns regarding her fit with the project objectives.",
+      "OverallRecommendation": {
+        "Score": 10,
+        "Reason": "Her expertise aligns perfectly with the project's needs, making her the top recommendation."
+      }
+    }
+  },
+  {
+    "Name": "Deborah J Cohen",
+    "ID": "4551382",
+    "Rank": 2,
+    "Reasons": {
+      "ExpertiseRelevance": "Deborah's background in mixed-method research and family medicine is crucial for increasing survey participation and conducting qualitative analyses.",
+      "SignificanceAndNovelty": "Her experience in qualitative research can enhance the depth of understanding, aligning with the need for triangulating survey data.",
+      "FairnessCriteria": "As a female researcher, she contributes to gender diversity.",
+      "AcceptanceReasons": "She can fill the expertise gap in qualitative analysis, critical for comprehensive data interpretation.",
+      "PotentialConcerns": "No major concerns. Her academic alignment is strong.",
+      "OverallRecommendation": {
+        "Score": 9,
+        "Reason": "Highly suitable for addressing qualitative analysis needs, second best option."
+      }
+    }
+  },
+  {
+    "Name": "Melinda M Davis",
+    "ID": "13312903",
+    "Rank": 3,
+    "Reasons": {
+      "ExpertiseRelevance": "Melinda's focus on health services research can aid in enhancing survey representativeness and understanding demographic variability.",
+      "SignificanceAndNovelty": "Her work in health systems can provide novel insights into expanding the sample and improving the survey instrument.",
+      "FairnessCriteria": "Contributes to gender diversity as a female researcher.",
+      "AcceptanceReasons": "Her expertise addresses the need for a diverse and representative sample.",
+      "PotentialConcerns": "No significant concerns.",
+      "OverallRecommendation": {
+        "Score": 8,
+        "Reason": "Effective in addressing representativeness and demographic analysis needs."
+      }
+    }
+  },
+  {
+    "Name": "Nadia Dahmane",
+    "ID": "11079722",
+    "Rank": 4,
+    "Reasons": {
+      "ExpertiseRelevance": "Though a cell biologist, Nadia's experience with complex biological systems could offer unique methodological insights, especially in refining survey instruments and validation.",
+      "SignificanceAndNovelty": "Her work with signaling pathways reflects a high level of analytical skills that could be applied to survey data analysis.",
+      "FairnessCriteria": "Adds to gender diversity as she is female.",
+      "AcceptanceReasons": "While not directly aligned, her analytical skills can support data validation processes.",
+      "PotentialConcerns": "Potential mismatch in direct research focus but worthwhile for analytical contributions.",
+      "OverallRecommendation": {
+        "Score": 7,
+        "Reason": "Valuable for analytical contributions, particularly in data validation."
+      }
+    }
+  },
+  {
+    "Name": "Vsevolod J Makeev",
+    "ID": "3032138",
+    "Rank": 5,
+    "Reasons": {
+      "ExpertiseRelevance": "His expertise in data analysis and computational biology is directly relevant for enhancing multivariate regression and weighting analyses.",
+      "SignificanceAndNovelty": "Can provide innovative approaches to data analysis, crucial for clarifying and expanding analysis.",
+      "FairnessCriteria": "Promotes racial diversity as a Russian researcher.",
+      "AcceptanceReasons": "Fills critical gaps in data analysis and computational methods.",
+      "PotentialConcerns": "No major concerns.",
+      "OverallRecommendation": {
+        "Score": 7,
+        "Reason": "Strong candidate for analytical refinement needs."
+      }
+    }
+  },
+  {
+    "Name": "Carolyn Petersen",
+    "ID": "1030820",
+    "Rank": 6,
+    "Reasons": {
+      "ExpertiseRelevance": "Carolyn's focus on health information can aid in refining the survey instrument and ensuring robust data collection methods.",
+      "SignificanceAndNovelty": "Her insights into data quality issues align with the need for survey instrument refinement.",
+      "FairnessCriteria": "Promotes gender diversity.",
+      "AcceptanceReasons": "Useful in addressing data quality and collection methods.",
+      "PotentialConcerns": "Potential overlap with existing team skills.",
+      "OverallRecommendation": {
+        "Score": 6,
+        "Reason": "Good fit for data collection quality improvement."
+      }
+    }
+  },
+  {
+    "Name": "Mathieu Vergnat",
+    "ID": "1892762",
+    "Rank": 7,
+    "Reasons": {
+      "ExpertiseRelevance": "Mathieu's clinical background can support the expansion of the sample to include diverse hospital types.",
+      "SignificanceAndNovelty": "His work in surgical outcomes could provide new perspectives on health service delivery.",
+      "FairnessCriteria": "Adds racial diversity as a French researcher.",
+      "AcceptanceReasons": "Can contribute to enhancing hospital representativeness.",
+      "PotentialConcerns": "May need a stronger focus on survey methodologies.",
+      "OverallRecommendation": {
+        "Score": 6,
+        "Reason": "Potentially beneficial for sample diversity expansion."
+      }
+    }
+  },
+  {
+    "Name": "Eliza C Small",
+    "ID": "1656173",
+    "Rank": 8,
+    "Reasons": {
+      "ExpertiseRelevance": "Eliza's background in biochemistry, while not directly aligned, can bring rigorous analytical methods to survey validation.",
+      "SignificanceAndNovelty": "Her analytical skills can be leveraged for data validation.",
+      "FairnessCriteria": "Contributes to gender diversity.",
+      "AcceptanceReasons": "Can support analytical validation processes.",
+      "PotentialConcerns": "Indirect relevance to current project needs.",
+      "OverallRecommendation": {
+        "Score": 5,
+        "Reason": "Useful for validation but less directly aligned."
+      }
+    }
+  },
+  {
+    "Name": "Paul Meissner",
+    "ID": "6365250",
+    "Rank": 9,
+    "Reasons": {
+      "ExpertiseRelevance": "Paul's work in geriatric patient care can add insights into patient engagement strategies.",
+      "SignificanceAndNovelty": "His clinical experience in community hospital settings is valuable for understanding diverse patient demographics.",
+      "FairnessCriteria": "Promotes racial diversity as a white researcher.",
+      "AcceptanceReasons": "Could aid in increasing survey participation among diverse groups.",
+      "PotentialConcerns": "Need more direct expertise in survey methodologies.",
+      "OverallRecommendation": {
+        "Score": 5,
+        "Reason": "Potential to improve survey participation strategies."
+      }
+    }
+  },
+  {
+    "Name": "Andrey Tovchigrechko",
+    "ID": "1452607",
+    "Rank": 10,
+    "Reasons": {
+      "ExpertiseRelevance": "His computational biology skills can enhance data modeling and analysis.",
+      "SignificanceAndNovelty": "Useful for expanding and clarifying data analysis sections.",
+      "FairnessCriteria": "Promotes racial diversity.",
+      "AcceptanceReasons": "Valuable for analytical refinement but might not directly address survey-specific needs.",
+      "PotentialConcerns": "Potential overlap with existing team skills.",
+      "OverallRecommendation": {
+        "Score": 5,
+        "Reason": "Good for analytical enhancement, less so for survey-specific needs."
+      }
+    }
+  },
+  {
+    "Name": "Craig Kuziemsky",
+    "ID": "11296587",
+    "Rank": 11,
+    "Reasons": {
+      "ExpertiseRelevance": "His work in systems analysis can contribute to holistic project evaluation.",
+      "SignificanceAndNovelty": "Could provide systems-level insights for project improvement.",
+      "FairnessCriteria": "Adds racial diversity as a Canadian researcher.",
+      "AcceptanceReasons": "Can aid in expanding project analysis comprehensiveness.",
+      "PotentialConcerns": "Less direct relevance to survey methodologies.",
+      "OverallRecommendation": {
+        "Score": 4,
+        "Reason": "Broader systems insights valuable but indirect for specific survey needs."
+      }
+    }
+  },
+  {
+    "Name": "Philip Diller",
+    "ID": "4666089",
+    "Rank": 12,
+    "Reasons": {
+      "ExpertiseRelevance": "His background in family medicine can support strategies for increasing survey participation among healthcare providers.",
+      "SignificanceAndNovelty": "His clinical insights could enhance survey engagement strategies.",
+      "FairnessCriteria": "Promotes gender diversity.",
+      "AcceptanceReasons": "Potentially aids in improving physician engagement.",
+      "PotentialConcerns": "Needs stronger focus on survey design and analysis.",
+      "OverallRecommendation": {
+        "Score": 4,
+        "Reason": "Potentially useful for engagement strategies."
+      }
+    }
+  },
+  {
+    "Name": "Alan Richmond",
+    "ID": "7217001",
+    "Rank": 13,
+    "Reasons": {
+      "ExpertiseRelevance": "His focus on public health can contribute to understanding health disparities in survey responses.",
+      "SignificanceAndNovelty": "Could provide new perspectives on survey data interpretation.",
+      "FairnessCriteria": "Adds racial diversity as a white researcher.",
+      "AcceptanceReasons": "Can enhance understanding of health disparities in survey data.",
+      "PotentialConcerns": "Less emphasis on survey methodologies.",
+      "OverallRecommendation": {
+        "Score": 4,
+        "Reason": "Useful for health disparity insights."
+      }
+    }
+  },
+  {
+    "Name": "Carolyn Petersen",
+    "ID": "1030820",
+    "Rank": 14,
+    "Reasons": {
+      "ExpertiseRelevance": "Her experience with health information systems can aid in refining survey instruments.",
+      "SignificanceAndNovelty": "Could improve data robustness and quality.",
+      "FairnessCriteria": "Promotes gender diversity.",
+      "AcceptanceReasons": "Can support data quality improvement.",
+      "PotentialConcerns": "Overlap with existing team skills.",
+      "OverallRecommendation": {
+        "Score": 4,
+        "Reason": "Supports data quality but less directly impacts survey methodologies."
+      }
+    }
+  },
+  {
+    "Name": "Kate Marie",
+    "ID": "9297818",
+    "Rank": 15,
+    "Reasons": {
+      "ExpertiseRelevance": "Her early career status may limit her ability to significantly impact the project, but her fresh perspectives could be beneficial.",
+      "SignificanceAndNovelty": "Could provide new perspectives, though her expertise may not align directly with project needs.",
+      "FairnessCriteria": "Adds gender diversity.",
+      "AcceptanceReasons": "May bring innovative ideas but less directly aligned with current needs.",
+      "PotentialConcerns": "Less experienced and may not have the depth needed for complex survey methodologies.",
+      "OverallRecommendation": {
+        "Score": 3,
+        "Reason": "Potential for innovative ideas but lacks alignment and experience."
+      }
+    }
+  },
+  {
+    "Name": "Steven E Labkoff",
+    "ID": "9016570",
+    "Rank": 16,
+    "Reasons": {
+      "ExpertiseRelevance": "His experience in digital health tools could offer insights into new data collection methods.",
+      "SignificanceAndNovelty": "Could provide novel insights into digital data collection.",
+      "FairnessCriteria": "Promotes racial diversity.",
+      "AcceptanceReasons": "May add value in digital methodologies but less aligned with survey-specific needs.",
+      "PotentialConcerns": "Potential mismatch in direct project requirements.",
+      "OverallRecommendation": {
+        "Score": 3,
+        "Reason": "Valuable for digital insights but less aligned with survey improvements."
+      }
+    }
+  },
+  {
+    "Name": "Bowen Chung",
+    "ID": "7022786",
+    "Rank": 17,
+    "Reasons": {
+      "ExpertiseRelevance": "His psychiatric focus may provide unique perspectives on survey participation strategies.",
+      "SignificanceAndNovelty": "Could add novel insights into engagement strategies.",
+      "FairnessCriteria": "Promotes racial diversity.",
+      "AcceptanceReasons": "Potentially useful for understanding engagement barriers.",
+      "PotentialConcerns": "Less relevant to survey design and analysis.",
+      "OverallRecommendation": {
+        "Score": 3,
+        "Reason": "Useful for engagement, less so for survey methodologies."
+      }
+    }
+  },
+  {
+    "Name": "Eduard Nedea",
+    "ID": "8467324",
+    "Rank": 18,
+    "Reasons": {
+      "ExpertiseRelevance": "His research in genetics may not directly address the current project's needs.",
+      "SignificanceAndNovelty": "Limited application to survey methodologies and data analysis.",
+      "FairnessCriteria": "Adds racial diversity as a Hispanic researcher.",
+      "AcceptanceReasons": "Limited direct relevance.",
+      "PotentialConcerns": "Mismatch with project focus.",
+      "OverallRecommendation": {
+        "Score": 2,
+        "Reason": "Limited relevance to project needs."
+      }
+    }
+  },
+  {
+    "Name": "A W Crompton",
+    "ID": "6457800",
+    "Rank": 19,
+    "Reasons": {
+      "ExpertiseRelevance": "His background in biomechanics is not aligned with the project's survey-based needs.",
+      "SignificanceAndNovelty": "Limited relevance to the current project focus.",
+      "FairnessCriteria": "Promotes racial diversity as a white researcher.",
+      "AcceptanceReasons": "Lacks direct relevance.",
+      "PotentialConcerns": "Significant mismatch with project needs.",
+      "OverallRecommendation": {
+        "Score": 2,
+        "Reason": "Not aligned with project requirements."
+      }
+    }
+  },
+  {
+    "Name": "J C Wallenburg",
+    "ID": "2043092",
+    "Rank": 20,
+    "Reasons": {
+      "ExpertiseRelevance": "Focused on genetics with limited application to the project's survey-based improvement needs.",
+      "SignificanceAndNovelty": "Not relevant to the project's survey methodologies and data analysis requirements.",
+      "FairnessCriteria": "Promotes racial diversity.",
+      "AcceptanceReasons": "Lacks relevance to project needs.",
+      "PotentialConcerns": "Complete mismatch in expertise.",
+      "OverallRecommendation": {
+        "Score": 1,
+        "Reason": "Not suitable for the project's needs."
+      }
+    }
+  }
+]

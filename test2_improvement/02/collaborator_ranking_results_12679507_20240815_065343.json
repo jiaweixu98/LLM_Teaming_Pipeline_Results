@@ -1,0 +1,322 @@
+[
+  {
+    "Name": "Nadia Dahmane",
+    "ID": "11079722",
+    "Rank": 1,
+    "Reasons": {
+      "ExpertiseRelevance": "Nadia Dahmane has a strong background in complex biological systems and signaling pathways, which can contribute to refining survey instruments and conducting qualitative analyses.",
+      "SignificanceAndNovelty": "Her work with Gli and hedgehog signaling pathways indicates a methodical approach to complex data, which could enhance multivariate regression analysis.",
+      "FairnessCriteria": "As a female scientist, her inclusion supports gender diversity.",
+      "AcceptanceReasons": "Her high H-index indicates significant contributions to her field, enhancing the project's credibility.",
+      "PotentialConcerns": "No potential concerns identified.",
+      "OverallRecommendation": {
+        "Score": 9,
+        "Reason": "Her expertise is highly relevant, and she adds diversity."
+      }
+    }
+  },
+  {
+    "Name": "Sean Tunis",
+    "ID": "12389552",
+    "Rank": 2,
+    "Reasons": {
+      "ExpertiseRelevance": "Sean Tunis's experience with clinical practice guidelines is highly relevant for refining survey instruments and ensuring robust methodological approaches.",
+      "SignificanceAndNovelty": "His work on evidence-based medicine can enhance the project's analysis and interpretation of findings.",
+      "FairnessCriteria": "Inclusion contributes to racial diversity among the white demographic.",
+      "AcceptanceReasons": "His high H-index (45) reflects a strong publication record in healthcare improvement.",
+      "PotentialConcerns": "Potential overlap in focus might need careful integration with existing team expertise.",
+      "OverallRecommendation": {
+        "Score": 8,
+        "Reason": "Strong expertise in healthcare guidelines and robust analysis."
+      }
+    }
+  },
+  {
+    "Name": "Srdjan Djurovic",
+    "ID": "3769777",
+    "Rank": 3,
+    "Reasons": {
+      "ExpertiseRelevance": "Djurovic's work in medical genetics and systemic inflammatory response can provide insights into diverse demographic factors and enhance representativeness.",
+      "SignificanceAndNovelty": "His experience with complex genetic data can improve multivariate regression and qualitative analyses.",
+      "FairnessCriteria": "Inclusion supports racial diversity within the European demographic.",
+      "AcceptanceReasons": "His high H-index (58) signifies significant expertise and influence in his field.",
+      "PotentialConcerns": "Geographical distance from the primary research site may present collaboration challenges.",
+      "OverallRecommendation": {
+        "Score": 8,
+        "Reason": "Strong analytical skills and demographic insights."
+      }
+    }
+  },
+  {
+    "Name": "Peter J Embi",
+    "ID": "11332788",
+    "Rank": 4,
+    "Reasons": {
+      "ExpertiseRelevance": "Embi's work with information technology in medicine can help develop robust survey participation strategies and improve data management.",
+      "SignificanceAndNovelty": "His experience with web-based curricula is novel and can support effective engagement and data collection methods.",
+      "FairnessCriteria": "Contributes to racial diversity among the white demographic.",
+      "AcceptanceReasons": "His H-index (25) indicates a solid track record in healthcare IT.",
+      "PotentialConcerns": "Potential overlap with existing IT expertise may require clear role definition.",
+      "OverallRecommendation": {
+        "Score": 7,
+        "Reason": "Strong fit for enhancing survey design and data collection."
+      }
+    }
+  },
+  {
+    "Name": "Craig Kuziemsky",
+    "ID": "11296587",
+    "Rank": 5,
+    "Reasons": {
+      "ExpertiseRelevance": "Kuziemsky's focus on healthcare informatics can aid in refining survey instruments and enhancing data analysis capabilities.",
+      "SignificanceAndNovelty": "His work on data standardization and interoperability is highly novel for improving project methodologies.",
+      "FairnessCriteria": "His inclusion promotes racial diversity within the white demographic.",
+      "AcceptanceReasons": "His H-index (19) reflects a respectable impact in healthcare informatics.",
+      "PotentialConcerns": "Potential challenges in aligning focus with existing project scope.",
+      "OverallRecommendation": {
+        "Score": 7,
+        "Reason": "Strong potential to refine data collection and analysis."
+      }
+    }
+  },
+  {
+    "Name": "Eliza C Small",
+    "ID": "1656173",
+    "Rank": 6,
+    "Reasons": {
+      "ExpertiseRelevance": "Small's work in biochemistry and molecular biology can provide a novel perspective on survey instrument refinement and validation.",
+      "SignificanceAndNovelty": "Her approach to method validation is significant for robust survey tool development.",
+      "FairnessCriteria": "Inclusion as a female scientist promotes gender diversity.",
+      "AcceptanceReasons": "Her H-index (11) indicates growing influence, providing fresh insights.",
+      "PotentialConcerns": "Limited direct experience with healthcare surveys.",
+      "OverallRecommendation": {
+        "Score": 6,
+        "Reason": "Emerging expertise with potential for innovation in data validation."
+      }
+    }
+  },
+  {
+    "Name": "Mathieu Vergnat",
+    "ID": "1892762",
+    "Rank": 7,
+    "Reasons": {
+      "ExpertiseRelevance": "Vergnat's background in cardiovascular and thoracic surgery could offer insights into survey participation strategies for low-response groups like surgeons.",
+      "SignificanceAndNovelty": "His clinical experience can enhance the project's practical applications.",
+      "FairnessCriteria": "Contributes to racial diversity among the white demographic.",
+      "AcceptanceReasons": "His H-index (18) shows a strong clinical research background.",
+      "PotentialConcerns": "Primary expertise in surgery may have limited direct application to survey development.",
+      "OverallRecommendation": {
+        "Score": 6,
+        "Reason": "Clinical insights valuable but may need integration with project focus."
+      }
+    }
+  },
+  {
+    "Name": "Bowen Chung",
+    "ID": "7022786",
+    "Rank": 8,
+    "Reasons": {
+      "ExpertiseRelevance": "Chung's work in neuropsychiatry can offer unique insights into survey design and participant engagement strategies.",
+      "SignificanceAndNovelty": "His novel approach to psychiatric medication can support diverse survey methodologies.",
+      "FairnessCriteria": "Promotes racial diversity within the team.",
+      "AcceptanceReasons": "His H-index (14) shows active contribution to mental health and engagement strategies.",
+      "PotentialConcerns": "Focus on neuropsychiatry may not directly align with current project needs.",
+      "OverallRecommendation": {
+        "Score": 5,
+        "Reason": "Potential for innovative engagement strategies but requires alignment."
+      }
+    }
+  },
+  {
+    "Name": "Lloyd P Provost",
+    "ID": "1466422",
+    "Rank": 9,
+    "Reasons": {
+      "ExpertiseRelevance": "Provost's experience in quality improvement can enhance strategies to increase survey participation and analytical rigor.",
+      "SignificanceAndNovelty": "His collaborative approach is novel for expanding sample diversity.",
+      "FairnessCriteria": "Contributes to racial diversity among the white demographic.",
+      "AcceptanceReasons": "His H-index (18) indicates valuable contributions to quality improvement.",
+      "PotentialConcerns": "Potential overlap with existing team methodologies.",
+      "OverallRecommendation": {
+        "Score": 5,
+        "Reason": "Strong quality improvement focus but needs clear project integration."
+      }
+    }
+  },
+  {
+    "Name": "Philip Diller",
+    "ID": "4666089",
+    "Rank": 10,
+    "Reasons": {
+      "ExpertiseRelevance": "Diller's work in family medicine can provide new perspectives on increasing survey participation among diverse medical professionals.",
+      "SignificanceAndNovelty": "His focus on patient care can enhance the project's engagement strategies.",
+      "FairnessCriteria": "Supports racial diversity within the white demographic.",
+      "AcceptanceReasons": "His H-index (9) indicates moderate impact in family medicine.",
+      "PotentialConcerns": "Limited experience with large-scale survey methodologies.",
+      "OverallRecommendation": {
+        "Score": 4,
+        "Reason": "Moderate relevance with potential for improving engagement strategies."
+      }
+    }
+  },
+  {
+    "Name": "Gary M Olson",
+    "ID": "6488426",
+    "Rank": 11,
+    "Reasons": {
+      "ExpertiseRelevance": "Olson's focus on technology and information systems can aid in refining data collection methods.",
+      "SignificanceAndNovelty": "His technological approach is novel for enhancing data management systems.",
+      "FairnessCriteria": "Contributes to diversity in technology expertise within the team.",
+      "AcceptanceReasons": "His H-index (3) indicates emerging expertise in information systems.",
+      "PotentialConcerns": "Limited direct experience with healthcare surveys.",
+      "OverallRecommendation": {
+        "Score": 4,
+        "Reason": "Emerging expertise with potential for technology integration."
+      }
+    }
+  },
+  {
+    "Name": "Andrey Tovchigrechko",
+    "ID": "1452607",
+    "Rank": 12,
+    "Reasons": {
+      "ExpertiseRelevance": "Tovchigrechko's work in molecular pharmacology can offer insights into validation processes and complex data analysis.",
+      "SignificanceAndNovelty": "His molecular approach is novel but may not directly align with survey methodologies.",
+      "FairnessCriteria": "Promotes racial diversity within the white demographic.",
+      "AcceptanceReasons": "His H-index (19) reflects a strong background in pharmacology.",
+      "PotentialConcerns": "Limited direct application to survey instrument refinement.",
+      "OverallRecommendation": {
+        "Score": 3,
+        "Reason": "High expertise in pharmacology but needs alignment with project needs."
+      }
+    }
+  },
+  {
+    "Name": "Eduard Nedea",
+    "ID": "8467324",
+    "Rank": 13,
+    "Reasons": {
+      "ExpertiseRelevance": "Nedea's work in genetics can offer insights into demographic diversity and data validation.",
+      "SignificanceAndNovelty": "His genetic approach is novel for representing diverse hospital settings.",
+      "FairnessCriteria": "As a Hispanic scientist, his inclusion supports racial diversity.",
+      "AcceptanceReasons": "His H-index (5) indicates emerging contributions in genetics.",
+      "PotentialConcerns": "Limited direct experience with healthcare survey methodologies.",
+      "OverallRecommendation": {
+        "Score": 3,
+        "Reason": "Potential for demographic insights but needs direct survey relevance."
+      }
+    }
+  },
+  {
+    "Name": "Vsevolod J Makeev",
+    "ID": "3032138",
+    "Rank": 14,
+    "Reasons": {
+      "ExpertiseRelevance": "Makeev's focus on molecular biology can provide insights into data segmentation and analysis.",
+      "SignificanceAndNovelty": "His Bayesian approach is novel but may not directly align with survey methodologies.",
+      "FairnessCriteria": "Supports racial diversity within the white demographic.",
+      "AcceptanceReasons": "His H-index (25) indicates strong expertise in molecular biology.",
+      "PotentialConcerns": "Limited direct application to healthcare survey refinement.",
+      "OverallRecommendation": {
+        "Score": 3,
+        "Reason": "High expertise in biology but needs alignment with project needs."
+      }
+    }
+  },
+  {
+    "Name": "A W Crompton",
+    "ID": "6457800",
+    "Rank": 15,
+    "Reasons": {
+      "ExpertiseRelevance": "Crompton's work in mastication and feeding behavior is less relevant to survey methodologies.",
+      "SignificanceAndNovelty": "His focus is novel but not directly applicable to healthcare improvement.",
+      "FairnessCriteria": "Supports racial diversity within the white demographic.",
+      "AcceptanceReasons": "His H-index (22) indicates expertise in his field, though not directly relevant.",
+      "PotentialConcerns": "Misalignment with project goals and methodologies.",
+      "OverallRecommendation": {
+        "Score": 2,
+        "Reason": "Strong expertise but lacks direct relevance to project needs."
+      }
+    }
+  },
+  {
+    "Name": "J C Wallenburg",
+    "ID": "2043092",
+    "Rank": 16,
+    "Reasons": {
+      "ExpertiseRelevance": "Wallenburg's focus on genetic recombination is less relevant to survey methodologies.",
+      "SignificanceAndNovelty": "His work is novel in genetics but not directly applicable to healthcare improvement.",
+      "FairnessCriteria": "Supports diversity in genetic expertise.",
+      "AcceptanceReasons": "His H-index (9) indicates modest contributions in genetics.",
+      "PotentialConcerns": "Limited direct relevance to survey instrument refinement.",
+      "OverallRecommendation": {
+        "Score": 2,
+        "Reason": "Limited applicability to project needs."
+      }
+    }
+  },
+  {
+    "Name": "Kate Marie",
+    "ID": "9297818",
+    "Rank": 17,
+    "Reasons": {
+      "ExpertiseRelevance": "Marie has limited publications, indicating less experience and potential impact.",
+      "SignificanceAndNovelty": "Her work lacks significant novelty for the project's needs.",
+      "FairnessCriteria": "As a female scientist, her inclusion supports gender diversity.",
+      "AcceptanceReasons": "Her H-index (3) shows emerging contributions in her field.",
+      "PotentialConcerns": "Lack of established expertise and publications.",
+      "OverallRecommendation": {
+        "Score": 1,
+        "Reason": "Emerging expertise with limited contributions and relevance."
+      }
+    }
+  },
+  {
+    "Name": "Steven E Labkoff",
+    "ID": "9016570",
+    "Rank": 18,
+    "Reasons": {
+      "ExpertiseRelevance": "Labkoff's work in medical technology is less relevant to survey methodologies.",
+      "SignificanceAndNovelty": "His focus on PDAs is novel but not directly applicable to current project needs.",
+      "FairnessCriteria": "Supports racial diversity within the white demographic.",
+      "AcceptanceReasons": "His H-index (5) indicates limited impact.",
+      "PotentialConcerns": "Limited alignment with project goals and healthcare survey refinement.",
+      "OverallRecommendation": {
+        "Score": 1,
+        "Reason": "Limited relevance to project needs."
+      }
+    }
+  },
+  {
+    "Name": "Alan Richmond",
+    "ID": "7217001",
+    "Rank": 19,
+    "Reasons": {
+      "ExpertiseRelevance": "Richmond's diverse affiliations suggest a potential breadth of knowledge, but specific expertise in survey methodologies is unclear.",
+      "SignificanceAndNovelty": "His work appears scattered, with limited direct applicability to project needs.",
+      "FairnessCriteria": "Supports racial diversity within the white demographic.",
+      "AcceptanceReasons": "His H-index (9) indicates moderate contributions.",
+      "PotentialConcerns": "Lack of focused expertise relevant to survey methodologies.",
+      "OverallRecommendation": {
+        "Score": 1,
+        "Reason": "Lacks clear relevance and focus for project needs."
+      }
+    }
+  },
+  {
+    "Name": "Gail M Keenan",
+    "ID": "9984250",
+    "Rank": 20,
+    "Reasons": {
+      "ExpertiseRelevance": "Keenan's work on nursing language, while novel, is less relevant to survey methodology refinement.",
+      "SignificanceAndNovelty": "Her focus on clinical data sets is novel but not directly applicable to the project's improvement needs.",
+      "FairnessCriteria": "Supports gender diversity as a mostly female scientist.",
+      "AcceptanceReasons": "Her H-index (18) indicates strong contributions in nursing.",
+      "PotentialConcerns": "Limited direct application to survey methodologies or engagement strategies.",
+      "OverallRecommendation": {
+        "Score": 1,
+        "Reason": "Strong nursing focus but lacks direct relevance to survey methodologies."
+      }
+    }
+  }
+]

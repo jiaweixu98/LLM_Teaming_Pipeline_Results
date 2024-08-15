@@ -1,0 +1,322 @@
+[
+  {
+    "name": "A Rani Elwy",
+    "ID": "2230889",
+    "Rank": 1,
+    "Reasons": {
+      "ExpertiseRelevance": "Elwy has a strong background in qualitative research, as indicated by her work in genetic counselling which involves qualitative case studies, aligning well with the 'Qualitative data analysis in healthcare' gap.",
+      "SignificanceAndNovelty": "Her experience in systematic reviews and qualitative case studies is crucial for enhancing the rigor and depth of our research.",
+      "FairnessCriteria": "Her inclusion helps promote gender diversity within the team.",
+      "AcceptanceReasons": "Overall, her experience directly addresses a major expertise gap, enhancing the project's methodology and analysis components.",
+      "PotentialConcerns": "No significant concerns.",
+      "OverallRecommendation": {
+        "Score": 9,
+        "Reason": "Highly recommended for her qualitative analysis skills that directly meet project needs."
+      }
+    }
+  },
+  {
+    "name": "France L\u00e9gar\u00e9",
+    "ID": "4606059",
+    "Rank": 2,
+    "Reasons": {
+      "ExpertiseRelevance": "L\u00e9gar\u00e9's work involves decision-making in healthcare contexts, relevant to 'Physician engagement strategies' and her trials involve aspects of mixed-methods research.",
+      "SignificanceAndNovelty": "Her research can introduce innovative decision-making frameworks that could improve how we engage physicians.",
+      "FairnessCriteria": "As a female researcher, her participation supports gender balance.",
+      "AcceptanceReasons": "L\u00e9gar\u00e9's strong H-index and decision-making research align closely with two of the project's core needs.",
+      "PotentialConcerns": "No major risks identified.",
+      "OverallRecommendation": {
+        "Score": 9,
+        "Reason": "Her expertise strongly complements the team in two identified gaps, making her a valuable addition."
+      }
+    }
+  },
+  {
+    "name": "Gary M Olson",
+    "ID": "6488426",
+    "Rank": 3,
+    "Reasons": {
+      "ExpertiseRelevance": "Olson\u2019s focus is somewhat less directly aligned, but offers complementary skills in handling complex data and organizational behavior.",
+      "SignificanceAndNovelty": "While his work in team dynamics offers novel organizational insight, it's less direct for the current focus areas.",
+      "FairnessCriteria": "He does not add noticeable diversity to the team.",
+      "AcceptanceReasons": "His knowledge in teamwork and dynamics could provide useful supplemental skills.",
+      "PotentialConcerns": "Less direct relevance to the main gaps identified.",
+      "OverallRecommendation": {
+        "Score": 7,
+        "Reason": "Provides complementary skills particularly in organizational behavior, useful for team dynamics."
+      }
+    }
+  },
+  {
+    "name": "Srdjan Djurovic",
+    "ID": "3769777",
+    "Rank": 4,
+    "Reasons": {
+      "ExpertiseRelevance": "Djurovic\u2019s background in genetics provides indirect support, potentially useful in biological aspects of healthcare.",
+      "SignificanceAndNovelty": "His methods could enhance the biological understanding of engagement but less directly relevant.",
+      "FairnessCriteria": "Adds ethnic diversity to the team as a European researcher.",
+      "AcceptanceReasons": "His research might offer new perspectives on patient stratification in healthcare projects.",
+      "PotentialConcerns": "Primary expertise not directly aligned with defined gaps.",
+      "OverallRecommendation": {
+        "Score": 6,
+        "Reason": "Potentially beneficial for peripheral genetic analysis, but not primary to key expertise gaps."
+      }
+    }
+  },
+  {
+    "name": "Vsevolod J Makeev",
+    "ID": "3032138",
+    "Rank": 5,
+    "Reasons": {
+      "ExpertiseRelevance": "Makeev brings expertise in data segmentation and extraction, indirectly helpful for qualitative data analysis.",
+      "SignificanceAndNovelty": "His focus on analytical methods could refine data analysis approaches.",
+      "FairnessCriteria": "Contributes to national diversity, being from Russia.",
+      "AcceptanceReasons": "His strong analytics background adds useful depth, albeit not directly related to healthcare.",
+      "PotentialConcerns": "Core expertise not directly targeting primary project needs.",
+      "OverallRecommendation": {
+        "Score": 6,
+        "Reason": "Brings solid analytic techniques that could benefit data analysis processes."
+      }
+    }
+  },
+  {
+    "name": "Leah Tuzzio",
+    "ID": "10339290",
+    "Rank": 6,
+    "Reasons": {
+      "ExpertiseRelevance": "Tuzzio's work in healthcare research with a focus on qualitative methods provides some alignment with qualitative analysis needs.",
+      "SignificanceAndNovelty": "Her research can add depth to qualitative components of the project.",
+      "FairnessCriteria": "Her inclusion promotes gender balance.",
+      "AcceptanceReasons": "Her focus on healthcare qualitative research is a valuable asset.",
+      "PotentialConcerns": "Her specific research focus might not fully address all gaps.",
+      "OverallRecommendation": {
+        "Score": 8,
+        "Reason": "Strong match for qualitative research needs with supportive gender diversity factor."
+      }
+    }
+  },
+  {
+    "name": "Gail M Keenan",
+    "ID": "9984250",
+    "Rank": 7,
+    "Reasons": {
+      "ExpertiseRelevance": "Keenan\u2019s work focuses on collaboration in healthcare, which indirectly relates to engaging strategies and teamwork.",
+      "SignificanceAndNovelty": "Her exploration of nurse-physician collaboration might offer insights into physician engagement strategies.",
+      "FairnessCriteria": "Offers female representation which aids in diversity.",
+      "AcceptanceReasons": "Potentially enhances understanding of collaborative strategies needed for physician engagement.",
+      "PotentialConcerns": "Main expertise is slightly tangential.",
+      "OverallRecommendation": {
+        "Score": 7,
+        "Reason": "Good for collaboration insights, though tangential to primary gaps."
+      }
+    }
+  },
+  {
+    "name": "J C Wallenburg",
+    "ID": "2043092",
+    "Rank": 8,
+    "Reasons": {
+      "ExpertiseRelevance": "Wallenburg's research in genetic exchange and integration strategies provides peripheral relevance to engagement strategies.",
+      "SignificanceAndNovelty": "Offers unique perspectives through genetic methodologies.",
+      "FairnessCriteria": "Unable to determine specific diversity impact due to unclear demographic data.",
+      "AcceptanceReasons": "Can contribute to genetic complexity understanding in healthcare environments.",
+      "PotentialConcerns": "Low direct relevance to identified gaps.",
+      "OverallRecommendation": {
+        "Score": 5,
+        "Reason": "Primarily offers tangential biological insights."
+      }
+    }
+  },
+  {
+    "name": "Eliza C Small",
+    "ID": "1656173",
+    "Rank": 9,
+    "Reasons": {
+      "ExpertiseRelevance": "Focuses on biochemical processes which have limited overlap with the current project needs.",
+      "SignificanceAndNovelty": "Her research does not prominently address the project's primary focus areas.",
+      "FairnessCriteria": "Supports female representation.",
+      "AcceptanceReasons": "Minimal contribution potential to current project focus.",
+      "PotentialConcerns": "Core expertise is misaligned with project requirements.",
+      "OverallRecommendation": {
+        "Score": 4,
+        "Reason": "Biochemical focus offers little direct support of project gaps."
+      }
+    }
+  },
+  {
+    "name": "Clarissa Hsu",
+    "ID": "9753945",
+    "Rank": 10,
+    "Reasons": {
+      "ExpertiseRelevance": "Engagement with midwifery and patient-clinician interactions indicate potential insights for physician engagement strategies, though slightly peripheral.",
+      "SignificanceAndNovelty": "Midwifery training insights offer some novelty for engagement strategies.",
+      "FairnessCriteria": "Promotes both gender and partly racial diversity.",
+      "AcceptanceReasons": "Her midwifery interaction research can enhance understanding of healthcare engagement.",
+      "PotentialConcerns": "Peripheral rather than central to the project's expertise needs.",
+      "OverallRecommendation": {
+        "Score": 6,
+        "Reason": "Provides indirect insights into engagement through midwifery training."
+      }
+    }
+  },
+  {
+    "name": "Lloyd P Provost",
+    "ID": "1466422",
+    "Rank": 11,
+    "Reasons": {
+      "ExpertiseRelevance": "Provost\u2019s work in process improvement has some relevance to qualitative analysis and mixed-methods research.",
+      "SignificanceAndNovelty": "His work has known application potential in healthcare improvement processes.",
+      "FairnessCriteria": "Contributes male representation.",
+      "AcceptanceReasons": "Can enhance process-oriented research angle.",
+      "PotentialConcerns": "Not directly addressing primary gaps.",
+      "OverallRecommendation": {
+        "Score": 5,
+        "Reason": "Useful improvement methodologies but not directly tackling key gaps."
+      }
+    }
+  },
+  {
+    "name": "Peter J Embi",
+    "ID": "11332788",
+    "Rank": 12,
+    "Reasons": {
+      "ExpertiseRelevance": "Embi has a background in informatics which may offer tools for qualitative data but is not directly related to primary project needs.",
+      "SignificanceAndNovelty": "Could contribute technological insights to data handling.",
+      "FairnessCriteria": "Adds gender diversity as a male contributor.",
+      "AcceptanceReasons": "Could bring valuable informatics insights to data management aspects of qualitative research.",
+      "PotentialConcerns": "Primary expertise not perfectly aligned with identified gaps.",
+      "OverallRecommendation": {
+        "Score": 6,
+        "Reason": "Informatics expertise beneficial but secondary to key gaps."
+      }
+    }
+  },
+  {
+    "name": "Eduard Nedea",
+    "ID": "8467324",
+    "Rank": 13,
+    "Reasons": {
+      "ExpertiseRelevance": "Nedea\u2019s specialization in genetics and molecular biology provides limited direct relevance.",
+      "SignificanceAndNovelty": "His work offers insights into genetic component processes which are not core to the project.",
+      "FairnessCriteria": "Adds diversity being of Hispanic descent.",
+      "AcceptanceReasons": "Offers peripheral biological computational insights.",
+      "PotentialConcerns": "Misalignment with identified expertise gaps.",
+      "OverallRecommendation": {
+        "Score": 4,
+        "Reason": "Genetic focus offers limited direct support for project needs."
+      }
+    }
+  },
+  {
+    "name": "Sean Tunis",
+    "ID": "12389552",
+    "Rank": 14,
+    "Reasons": {
+      "ExpertiseRelevance": "Tunis\u2019s work in clinical guidelines and assessment can assist in design strategies but lacks direct impact on qualitative and mixed-design methodologies.",
+      "SignificanceAndNovelty": "His guideline experience could support framework development.",
+      "FairnessCriteria": "Contributes to racial diversity.",
+      "AcceptanceReasons": "Potential benefit in design alignment although less crucial.",
+      "PotentialConcerns": "Less relevance to qualitative and mixed-methods gaps.",
+      "OverallRecommendation": {
+        "Score": 5,
+        "Reason": "Guideline expertise useful, less aligned with primary needs."
+      }
+    }
+  },
+  {
+    "name": "Philip Diller",
+    "ID": "4666089",
+    "Rank": 15,
+    "Reasons": {
+      "ExpertiseRelevance": "Diller\u2019s expertise in clinical cardiology provides minimal alignment with qualitative and mixed-methods research.",
+      "SignificanceAndNovelty": "His medical insights might support peripheral healthcare understanding.",
+      "FairnessCriteria": "Contributes to male representation.",
+      "AcceptanceReasons": "Primary contributions lie outside current expertise gaps.",
+      "PotentialConcerns": "Mismatch with key identified expertise requirements.",
+      "OverallRecommendation": {
+        "Score": 3,
+        "Reason": "Limited alignment with core project needs."
+      }
+    }
+  },
+  {
+    "name": "Nadia Dahmane",
+    "ID": "11079722",
+    "Rank": 16,
+    "Reasons": {
+      "ExpertiseRelevance": "Dahmane\u2019s work in cellular biology and hedgehog signaling pathways has limited direct overlap with project needs.",
+      "SignificanceAndNovelty": "Her biological research enhances molecular insights, not project focus.",
+      "FairnessCriteria": "Adds female representation and enhances gender diversity.",
+      "AcceptanceReasons": "Strong applicant but essential expertise misalignment for this project.",
+      "PotentialConcerns": "Science focus not relevant to primary gaps.",
+      "OverallRecommendation": {
+        "Score": 4,
+        "Reason": "Cellular focus too niche for project needs."
+      }
+    }
+  },
+  {
+    "name": "J C Wallenburg",
+    "ID": "2043092",
+    "Rank": 17,
+    "Reasons": {
+      "ExpertiseRelevance": "Focus on chromosomal and genetic recombination offers peripheral insights to primary needs of qualitative data.",
+      "SignificanceAndNovelty": "Provides interesting genetic exchange methodologies.",
+      "FairnessCriteria": "Demographic specifics unclear, less impact on diversity evaluation.",
+      "AcceptanceReasons": "Some biological insights but not core to project gaps.",
+      "PotentialConcerns": "Primary expertise not matching the key priorities of the healthcare oriented project gaps.",
+      "OverallRecommendation": {
+        "Score": 3,
+        "Reason": "Genetic focus less applicable to current qualitative needs."
+      }
+    }
+  },
+  {
+    "name": "A W Crompton",
+    "ID": "6457800",
+    "Rank": 18,
+    "Reasons": {
+      "ExpertiseRelevance": "Crompton\u2019s research in mastication and jaw biomechanics is highly specialized and does not align with the project\u2019s qualitative focus.",
+      "SignificanceAndNovelty": "His research is novel but not relevant in this context.",
+      "FairnessCriteria": "Contributes age diversity with extensive experience.",
+      "AcceptanceReasons": "Highly respected in field but lacks relevant project impact.",
+      "PotentialConcerns": "Significant expertise mismatch for project.",
+      "OverallRecommendation": {
+        "Score": 2,
+        "Reason": "Specialized biomechanics skills not applicable to project needs."
+      }
+    }
+  },
+  {
+    "name": "Andrey Tovchigrechko",
+    "ID": "1452607",
+    "Rank": 19,
+    "Reasons": {
+      "ExpertiseRelevance": "Tovchigrechko\u2019s work in molecular pharmacology has little direct relevance to the qualitative and mixed-methods needs.",
+      "SignificanceAndNovelty": "His pharmacology and docking expertise is too niche for this project focus.",
+      "FairnessCriteria": "Contributes male perspective to gender diversity.",
+      "AcceptanceReasons": "Offers biomedical insights but unrelated to major project priorities.",
+      "PotentialConcerns": "Expertise significantly mismatched with core qualitative and mixed-method needs identified.",
+      "OverallRecommendation": {
+        "Score": 2,
+        "Reason": "Focus too niche for project requirements in qualitative research."
+      }
+    }
+  },
+  {
+    "name": "Mathieu Vergnat",
+    "ID": "1892762",
+    "Rank": 20,
+    "Reasons": {
+      "ExpertiseRelevance": "Vergnat\u2019s research in cardiovascular surgery is entirely unrelated to the identified project expertise gaps.",
+      "SignificanceAndNovelty": "His work brings no significant new insight into the qualitative research methods or physician engagement.",
+      "FairnessCriteria": "Contributes male perspective, not significant for gaps in expertise.",
+      "AcceptanceReasons": "Strong academic discipline but unrelated expertise.",
+      "PotentialConcerns": "Very little to no relevance to the stated project focus areas.",
+      "OverallRecommendation": {
+        "Score": 1,
+        "Reason": "Essentially no alignment with project needs, highly specialized elsewhere."
+      }
+    }
+  }
+]

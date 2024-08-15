@@ -1,0 +1,322 @@
+[
+  {
+    "Name": "Deborah J Cohen",
+    "ID": "4551382",
+    "Rank": 1,
+    "Reasons": {
+      "ExpertiseRelevance": "Her work on patient-physician interaction and antibiotic prescription aligns well with 'Physician engagement strategies'.",
+      "SignificanceAndNovelty": "Her extensive research on healthcare practices provides a strong foundation for the project.",
+      "FairnessCriteria": "Female collaborator, contributing to gender diversity.",
+      "AcceptanceReasons": "High potential to contribute to 'Physician engagement strategies' and 'Mixed-methods research design'.",
+      "PotentialConcerns": "None significant.",
+      "OverallRecommendation": {
+        "Score": 9,
+        "Reason": "Strong alignment with expertise gaps and contribution to diversity."
+      }
+    }
+  },
+  {
+    "Name": "Sophie Staniszewska",
+    "ID": "9189496",
+    "Rank": 2,
+    "Reasons": {
+      "ExpertiseRelevance": "Her focus on patient satisfaction and healthcare evaluation aligns with 'Qualitative data analysis in healthcare'.",
+      "SignificanceAndNovelty": "Her work brings innovative perspectives on healthcare evaluation.",
+      "FairnessCriteria": "Female and international collaborator, enhancing gender and geographic diversity.",
+      "AcceptanceReasons": "Strong background in qualitative research methods.",
+      "PotentialConcerns": "Potentially less focus on 'Physician engagement strategies'.",
+      "OverallRecommendation": {
+        "Score": 8,
+        "Reason": "Great fit for qualitative analysis needs with added diversity benefits."
+      }
+    }
+  },
+  {
+    "Name": "Melinda M Davis",
+    "ID": "13312903",
+    "Rank": 3,
+    "Reasons": {
+      "ExpertiseRelevance": "Her research could contribute to 'Mixed-methods research design'.",
+      "SignificanceAndNovelty": "Brings insights into healthcare systems and methodologies.",
+      "FairnessCriteria": "Female researcher, supporting gender diversity.",
+      "AcceptanceReasons": "Experience in healthcare systems research.",
+      "PotentialConcerns": "Might not directly address 'Physician engagement strategies'.",
+      "OverallRecommendation": {
+        "Score": 8,
+        "Reason": "Good match for mixed-methods design; valuable for gender diversity."
+      }
+    }
+  },
+  {
+    "Name": "Craig Kuziemsky",
+    "ID": "11296587",
+    "Rank": 4,
+    "Reasons": {
+      "ExpertiseRelevance": "Background in healthcare informatics relevant to 'Mixed-methods research design'.",
+      "SignificanceAndNovelty": "Potential to bring novel informatics approaches to the project.",
+      "FairnessCriteria": "Male, white; does not enhance diversity.",
+      "AcceptanceReasons": "Solid informatics background.",
+      "PotentialConcerns": "Lesser alignment with 'Physician engagement strategies'.",
+      "OverallRecommendation": {
+        "Score": 7,
+        "Reason": "Strong informatics contribution but limited diversity enhancement."
+      }
+    }
+  },
+  {
+    "Name": "Paul Meissner",
+    "ID": "6365250",
+    "Rank": 5,
+    "Reasons": {
+      "ExpertiseRelevance": "Experience in family and social medicine offers insights into 'Physician engagement strategies'.",
+      "SignificanceAndNovelty": "Brings practical healthcare experience.",
+      "FairnessCriteria": "Male, white; does not enhance diversity.",
+      "AcceptanceReasons": "Relevant experience in engaging physicians in community settings.",
+      "PotentialConcerns": "Limited publication record in mixed-methods or qualitative research.",
+      "OverallRecommendation": {
+        "Score": 7,
+        "Reason": "Useful practical experience but limited on methodological novelty."
+      }
+    }
+  },
+  {
+    "Name": "Carolyn Petersen",
+    "ID": "1030820",
+    "Rank": 6,
+    "Reasons": {
+      "ExpertiseRelevance": "Her work on health information quality aligns moderately with 'Qualitative data analysis in healthcare'.",
+      "SignificanceAndNovelty": "Brings a focus on information quality which could enhance data analysis.",
+      "FairnessCriteria": "Female collaborator, contributing to gender diversity.",
+      "AcceptanceReasons": "Can provide insights into healthcare data quality and analysis.",
+      "PotentialConcerns": "Not directly focused on physician engagement or mixed-methods.",
+      "OverallRecommendation": {
+        "Score": 6,
+        "Reason": "Good for data quality analysis, but not a perfect fit for all keyword needs."
+      }
+    }
+  },
+  {
+    "Name": "Mathieu Vergnat",
+    "ID": "1892762",
+    "Rank": 7,
+    "Reasons": {
+      "ExpertiseRelevance": "Limited direct relevance to the identified keywords.",
+      "SignificanceAndNovelty": "His work in medical research may provide tangential insights.",
+      "FairnessCriteria": "Male, white; does not enhance diversity.",
+      "AcceptanceReasons": "Potential to contribute to interdisciplinary discussions.",
+      "PotentialConcerns": "Does not directly address any of the three feedback keywords.",
+      "OverallRecommendation": {
+        "Score": 5,
+        "Reason": "Limited alignment with expertise gaps, but potential interdisciplinary value."
+      }
+    }
+  },
+  {
+    "Name": "Eduard Nedea",
+    "ID": "8467324",
+    "Rank": 8,
+    "Reasons": {
+      "ExpertiseRelevance": "Limited direct relevance to the project's expertise needs.",
+      "SignificanceAndNovelty": "Background in genetics and molecular biology provides minimal relevance.",
+      "FairnessCriteria": "Male, Hispanic; adds some racial diversity.",
+      "AcceptanceReasons": "Potential contribution to diversity.",
+      "PotentialConcerns": "Lacks direct expertise alignment.",
+      "OverallRecommendation": {
+        "Score": 4,
+        "Reason": "Brings some diversity but limited relevance to project needs."
+      }
+    }
+  },
+  {
+    "Name": "Srdjan Djurovic",
+    "ID": "3769777",
+    "Rank": 9,
+    "Reasons": {
+      "ExpertiseRelevance": "Extensive background in genetics and pre-eclampsia, not directly relevant.",
+      "SignificanceAndNovelty": "Highly regarded in genetics field but lacks direct application to project.",
+      "FairnessCriteria": "Male, white; international collaborator.",
+      "AcceptanceReasons": "Strong research background.",
+      "PotentialConcerns": "Does not address any of the three key gaps.",
+      "OverallRecommendation": {
+        "Score": 3,
+        "Reason": "Highly accomplished but not aligned with project needs."
+      }
+    }
+  },
+  {
+    "Name": "Vsevolod J Makeev",
+    "ID": "3032138",
+    "Rank": 10,
+    "Reasons": {
+      "ExpertiseRelevance": "Background in molecular biology and biopolymers analysis.",
+      "SignificanceAndNovelty": "Potential to offer insights into data analysis techniques, though not directly healthcare-related.",
+      "FairnessCriteria": "Male, white; from Russia, adds geographic diversity.",
+      "AcceptanceReasons": "Offers methodological insights.",
+      "PotentialConcerns": "Limited direct relevance to healthcare qualitative analysis.",
+      "OverallRecommendation": {
+        "Score": 3,
+        "Reason": "Some methodological insights but lacks direct healthcare focus."
+      }
+    }
+  },
+  {
+    "Name": "Philip Diller",
+    "ID": "4666089",
+    "Rank": 11,
+    "Reasons": {
+      "ExpertiseRelevance": "Background in family medicine may offer some insights into 'Physician engagement strategies'.",
+      "SignificanceAndNovelty": "Experience in patient care settings.",
+      "FairnessCriteria": "Male, unknown race; does not enhance diversity.",
+      "AcceptanceReasons": "Relevant to engagement strategies.",
+      "PotentialConcerns": "Limited publication record in research design or qualitative analysis.",
+      "OverallRecommendation": {
+        "Score": 3,
+        "Reason": "Some relevance to engagement strategies but lacks methodological depth."
+      }
+    }
+  },
+  {
+    "Name": "A W Crompton",
+    "ID": "6457800",
+    "Rank": 12,
+    "Reasons": {
+      "ExpertiseRelevance": "Research focus on mastication and jaw movements; not relevant to the project.",
+      "SignificanceAndNovelty": "Renowned in his field, but unrelated to the project's needs.",
+      "FairnessCriteria": "Gender and race not specified; does not enhance diversity.",
+      "AcceptanceReasons": "Highly regarded in his field.",
+      "PotentialConcerns": "Irrelevant to the identified expertise gaps.",
+      "OverallRecommendation": {
+        "Score": 2,
+        "Reason": "No direct relevance to the project's expertise gaps."
+      }
+    }
+  },
+  {
+    "Name": "Eliza C Small",
+    "ID": "1656173",
+    "Rank": 13,
+    "Reasons": {
+      "ExpertiseRelevance": "Focus on biochemistry and molecular biology.",
+      "SignificanceAndNovelty": "Potential for innovative biochemical methods.",
+      "FairnessCriteria": "Female researcher, supporting gender diversity.",
+      "AcceptanceReasons": "Diverse scientific background.",
+      "PotentialConcerns": "No direct relevance to identified expertise gaps.",
+      "OverallRecommendation": {
+        "Score": 2,
+        "Reason": "Diverse background but not aligned with project needs."
+      }
+    }
+  },
+  {
+    "Name": "Andrey Tovchigrechko",
+    "ID": "1452607",
+    "Rank": 14,
+    "Reasons": {
+      "ExpertiseRelevance": "Research in molecular pharmacology and protein interactions.",
+      "SignificanceAndNovelty": "Highly regarded in his field, but limited application to healthcare research.",
+      "FairnessCriteria": "Male, white; does not enhance diversity.",
+      "AcceptanceReasons": "Brings novel protein interaction insights.",
+      "PotentialConcerns": "Lacks relevance to physician engagement or mixed-methods.",
+      "OverallRecommendation": {
+        "Score": 2,
+        "Reason": "Not directly applicable to project needs despite strong background."
+      }
+    }
+  },
+  {
+    "Name": "Bowen Chung",
+    "ID": "7022786",
+    "Rank": 15,
+    "Reasons": {
+      "ExpertiseRelevance": "Background in psychiatry, potential relevance to physician-patient engagement.",
+      "SignificanceAndNovelty": "Offers insights into psychiatric care practices.",
+      "FairnessCriteria": "Male, unknown race; does not enhance diversity.",
+      "AcceptanceReasons": "Relevant to some aspects of physician engagement.",
+      "PotentialConcerns": "Limited methodological focus in research design or analysis.",
+      "OverallRecommendation": {
+        "Score": 2,
+        "Reason": "Some relevance to engagement but lacks methodological depth."
+      }
+    }
+  },
+  {
+    "Name": "Alan Richmond",
+    "ID": "7217001",
+    "Rank": 16,
+    "Reasons": {
+      "ExpertiseRelevance": "Focus on public health and epidemiology.",
+      "SignificanceAndNovelty": "Could offer epidemiological insights but not directly relevant to qualitative analysis.",
+      "FairnessCriteria": "Male, white; does not enhance diversity.",
+      "AcceptanceReasons": "Background in public health.",
+      "PotentialConcerns": "Limited relevance to project-specific needs.",
+      "OverallRecommendation": {
+        "Score": 2,
+        "Reason": "Not directly applicable to the identified expertise gaps."
+      }
+    }
+  },
+  {
+    "Name": "Kate Marie",
+    "ID": "9297818",
+    "Rank": 17,
+    "Reasons": {
+      "ExpertiseRelevance": "Focus on cardiovascular medicine.",
+      "SignificanceAndNovelty": "Could offer insights into medical conditions but not directly relevant to project needs.",
+      "FairnessCriteria": "Female, unknown race; adds gender diversity.",
+      "AcceptanceReasons": "Brings medical insights.",
+      "PotentialConcerns": "Does not address any of the identified expertise gaps.",
+      "OverallRecommendation": {
+        "Score": 1,
+        "Reason": "Limited relevance to the project's focus areas."
+      }
+    }
+  },
+  {
+    "Name": "Steven E Labkoff",
+    "ID": "9016570",
+    "Rank": 18,
+    "Reasons": {
+      "ExpertiseRelevance": "Focus on digital health tools and technology in clinical settings.",
+      "SignificanceAndNovelty": "Could offer insights into technology use in healthcare.",
+      "FairnessCriteria": "Male, white; does not enhance diversity.",
+      "AcceptanceReasons": "Background in digital health.",
+      "PotentialConcerns": "Limited relevance to the identified expertise gaps.",
+      "OverallRecommendation": {
+        "Score": 1,
+        "Reason": "Not directly applicable to project needs despite tech expertise."
+      }
+    }
+  },
+  {
+    "Name": "J C Wallenburg",
+    "ID": "2043092",
+    "Rank": 19,
+    "Reasons": {
+      "ExpertiseRelevance": "Focus on genetics and recombination.",
+      "SignificanceAndNovelty": "Highly regarded in his field but unrelated to the project's needs.",
+      "FairnessCriteria": "Gender and race not specified; does not enhance diversity.",
+      "AcceptanceReasons": "Highly regarded in genetics.",
+      "PotentialConcerns": "Irrelevant to the project's expertise gaps.",
+      "OverallRecommendation": {
+        "Score": 1,
+        "Reason": "No direct relevance to the project's needs."
+      }
+    }
+  },
+  {
+    "Name": "Nadia Dahmane",
+    "ID": "11079722",
+    "Rank": 20,
+    "Reasons": {
+      "ExpertiseRelevance": "Focus on cancer biology and developmental biology.",
+      "SignificanceAndNovelty": "Highly regarded in her field but lacks direct application to the project.",
+      "FairnessCriteria": "Female, white; contributes to gender diversity.",
+      "AcceptanceReasons": "Strong research background in biology.",
+      "PotentialConcerns": "Does not address any of the key expertise gaps.",
+      "OverallRecommendation": {
+        "Score": 1,
+        "Reason": "Highly accomplished but not aligned with project needs."
+      }
+    }
+  }
+]

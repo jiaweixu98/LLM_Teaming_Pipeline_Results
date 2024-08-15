@@ -1,0 +1,721 @@
+2024-08-15 06:53:03,645 - INFO - HTTP Request: GET https://api.openai.com/v1/models "HTTP/1.1 200 OK"
+Ranking Prompt: Based on the following project details and the suggestions for improvement from reviewers' feedback, rank the potential collaborators from best to worst. 
+The project has specific limitations and areas for improvement that have been highlighted by the reviewers' feedback, and new collaborators are needed to fill the expertise gaps in the current team's skills that are essential for improving the project. 
+Provide a comprehensive explanation for each collaborator's ranking, focusing on how their expertise addresses the expertise gaps and enhances the project's chances of success. Consider the relevance of their expertise as the primary factor, and also weigh fairness criteria such as gender, age, and racial diversity. 
+Given that the last author and the first author typically have the most significant impact on the paper, these roles should be given special attention in your evaluation. 
+
+### Instructions for Ranking Collaborators:
+1. **Review the Provided Data**: You are provided with data about each collaborator, including their expertise, publication record, and other relevant details.
+   - Carefully review this data and the suggestions for improvement identified in the reviewers' feedback.
+2. **Focus on Expertise Gaps**: Focus on identifying the expertise needed from new members outside the current team, who can bring in the critical skills that the project lacks. The current team consists of the First Author, Last Author, and Other Authors. The most important criterion is how well each collaborator's expertise can fill the gaps in the current team's skills, as identified in the reviewers' suggestions for improvement. Collaborators whose skills directly address these gaps should be ranked higher.
+3. **Evaluate Other Criteria**: In addition to expertise relevance, assess each collaborator based on the following criteria:
+   - **Alignment with Expertise Gaps**: How closely does the collaborator's expertise address the specific areas of improvement needed to enhance the project? Focus on whether their skills directly fill the gaps essential for responding to the reviewers' feedback and improving the research. Collaborators with expertise that fills these gaps should be ranked higher.
+   - **Impact on Project Success**: Assess the collaborator's potential contribution to the success of the project. Consider how their previous work, publications, and reputation in the field could enhance the project's outcomes. Focus on their ability to bring unique perspectives or methods that could significantly improve the quality and innovation of the research.
+   - **Fairness and Inclusivity**: Consider how this collaborator's inclusion promotes diversity within the research team. Assess the importance of diversity factors such as gender, race, and age in building a more inclusive and representative research environment. Rank collaborators higher if they contribute to making the team more diverse and inclusive.
+   - **Potential Risks or Limitations**: Identify any concerns that could hinder successful collaboration with this individual. This could include factors like a mismatch in research priorities, potential conflicts of interest, or challenges related to communication. Weigh these factors carefully and rank collaborators lower if there are significant risks or challenges.
+4. **Provide Detailed Explanations**: For each collaborator, provide a thorough explanation of their ranking. Ensure your explanation is backed by data and is detailed in addressing:
+   - How their expertise fills the gaps in the current team's skills and responds to the project's needs.
+   - Their strengths and weaknesses across the other evaluation criteria.
+5. **Objectivity and Accuracy**: Base your ranking on **the data provided**.
+   - You must **ensure that the collaborator's name and ID are correct** for each entry. Each collaborator can only hold one rank from 1 to 20.
+   - The ranking must be from 1 to 20, where each collaborator is ranked only once.
+
+### Data Provided:
+Original Paper Information:
+Title: The culture of safety: results of an organization-wide survey in 15 California hospitals.
+Venue: Quality & safety in health care
+Publication Year: 2003
+
+Reviewers' Suggestions for Improvement:
+
+**Suggestions for improvement**
+   - **Increase Survey Participation:**
+     - Implement more robust strategies to engage physicians and other low-response groups in future surveys.
+     - Consider mixed-method approaches, such as follow-up interviews or focus groups, to complement survey findings and ensure depth of understanding.
+   - **Enhance Representativeness:**
+     - Expand the sample to include a more diverse and randomly selected set of hospitals, encompassing various regions and types.
+     - Include more detailed demographic and contextual information about the participating hospitals to better understand the variability in responses.
+   - **Refine Survey Instrument:**
+     - Incorporate open-ended questions to capture more nuanced insights into attitudes and experiences regarding safety culture.
+     - Perform further validation of the modified survey instrument within different hospital settings to ensure its robustness and comprehensiveness.
+   - **Clarify and Expand Analysis:**
+     - Provide more detailed results and interpretation of multivariate regression and weighting analyses in the main text or supplementary materials.
+     - Conduct additional qualitative analyses to triangulate the survey data and reinforce key findings, ensuring more comprehensive and actionable conclusions.
+
+First Author:
+Name: Sara J Singer
+BeginYear: 1991
+Gender: female
+Race: unknown
+H-index: 30
+Affiliation: Stanford University Graduate School of Business Palo Alto, CA united states of america
+Top Papers:
+  - Title: Managed competition and California's health care economy.
+  - Title: The managed care backlash and the task force in California.
+Recent Papers:
+  - Title: Prospects for improved decision making about medical necessity.
+  - Title: msJAMA: Cosmetic vs reconstructive surgery for cleft palate: A window into the medical necessity debate.
+
+Last Author:
+Name: K C Park
+BeginYear: 2003
+Gender: unknown
+Race: unknown
+H-index: 1
+Affiliation: None
+Top Papers:
+
+Recent Papers:
+
+
+Other Authors:
+Name: David M Gaba
+BeginYear: 1982
+Gender: male
+Race: unknown
+H-index: 45
+Affiliation: Department of Anesthesia Stanford University School of Medicine California united states of america
+Top Papers:
+  - Title: Patient safety: fatigue among clinicians and the safety of patients.
+Recent Papers:
+  - Title: Two examples of how to evaluate the impact of new approaches to teaching.
+
+Name: Jeffrey J Geppert
+BeginYear: 1998
+Gender: male
+Race: white
+H-index: 16
+Affiliation: Battelle Memorial Institute Battelle Memorial Institute Columbus, OH united states of america
+Top Papers:
+  - Title: Risks and costs of end-stage renal disease after heart transplantation.
+Recent Papers:
+  - Title: Racial and sex differences in refusal of coronary angiography.
+
+Name: Anna D Sinaiko
+BeginYear: 2003
+Gender: female
+Race: white
+H-index: 19
+Affiliation: Harvard University Cambridge, Massachusetts, USA united states of america
+Top Papers:
+
+Recent Papers:
+
+
+Name: Steven K Howard
+BeginYear: 1992
+Gender: male
+Race: unknown
+H-index: 27
+Affiliation: Department of Anesthesia Stanford University School of Medicine CA united states of america
+Top Papers:
+  - Title: Patient safety: fatigue among clinicians and the safety of patients.
+Recent Papers:
+  - Title: The risks and implications of excessive daytime sleepiness in resident physicians.
+
+Potential Collaborators:
+Name: Philip Diller
+ID: 4666089
+BeginYear: 1987
+Gender: male
+Race: unknown
+H-index: 9
+Affiliation: Department of Family Medicine University of Cincinnati Ohio united states of america
+Top Papers:
+  - Title: Macrophage free cholesterol content regulates apolipoprotein E synthesis.
+  - Title: Congestive heart failure due to diastolic or systolic dysfunction. Frequency and patient characteristics in an ambulatory setting.
+  - Title: Definition and application of the discretionary screening indicators according to the National Cholesterol Education Program for Children and Adolescents.
+
+Name: A W Crompton
+ID: 6457800
+BeginYear: 1967
+Gender: unknown
+Race: white
+H-index: 22
+Affiliation: Harvard University 26 Oxford St, Cambridge, Massachusetts , USA united kingdom
+Top Papers:
+  - Title: Coordination of mastication and swallowing.
+  - Title: Loading patterns and jaw movements during mastication in Macaca fascicularis: a bone-strain, electromyographic, and cineradiographic analysis.
+  - Title: Food consistency and bite size as regulators of jaw movement during feeding in the cat.
+
+Name: Mathieu Vergnat
+ID: 1892762
+BeginYear: 1976
+Gender: male
+Race: white
+H-index: 18
+Affiliation: Department of Cardiovascular and Thoracic Surgery B Louis Pradel Hospital, Claude Bernard University, INSERM U Bron, France france
+Top Papers:
+  - Title: [Cutaneous manifestations of malabsorption diseases (author's transl)].
+  - Title: Electron-paramagnetic-resonance study of the microscopic structure of the Si(001)-SiO2 interface.
+  - Title: Evidence of hydrogen modulation in Si/Si:H amorphous multilayers.
+
+Name: Srdjan Djurovic
+ID: 3769777
+BeginYear: 1991
+Gender: unknown
+Race: white
+H-index: 58
+Affiliation: University of Oslo and Department of Medical Genetics University of Oslo and Department of Medical Genetics, Ulleval University Hospital Norway norway
+Top Papers:
+  - Title: Dyslipidemia in early second trimester is mainly a feature of women with early onset pre-eclampsia.
+  - Title: Absence of enhanced systemic inflammatory response at 18 weeks of gestation in women with subsequent pre-eclampsia.
+  - Title: Plasma concentrations of Lp(a) lipoprotein and TGF-beta1 are altered in preeclampsia.
+
+Name: Eliza C Small
+ID: 1656173
+BeginYear: 2001
+Gender: female
+Race: unknown
+H-index: 11
+Affiliation: Department of Biochemistry and Molecular Biology The University of Chicago Chicago, Illinois , USA united states of america
+Top Papers:
+  - Title: Development and validation of a competitive AKT serine/threonine kinase fluorescence polarization assay using a product-specific anti-phospho-serine antibody.
+
+Name: Vsevolod J Makeev
+ID: 3032138
+BeginYear: 1995
+Gender: male
+Race: white
+H-index: 25
+Affiliation: V.A. Engelgardt Molecular Biology Institute RAS V.A. Engelgardt Molecular Biology Institute RAS Moscow, Russian Federation russia
+Top Papers:
+  - Title: Extraction of functional binding sites from unique regulatory regions: the Drosophila early developmental enhancers.
+  - Title: Search of periodicities in primary structure of biopolymers: a general Fourier approach.
+  - Title: DNA segmentation through the Bayesian approach.
+
+Name: Andrey Tovchigrechko
+ID: 1452607
+BeginYear: 2001
+Gender: male
+Race: white
+H-index: 19
+Affiliation: Department of Cell and Molecular Pharmacology Medical University of South Carolina Charleston, South Carolina , USA united states of america
+Top Papers:
+  - Title: Docking of protein models.
+  - Title: How common is the funnel-like energy landscape in protein-protein interactions?
+
+Name: J C Wallenburg
+ID: 2043092
+BeginYear: 1984
+Gender: unknown
+Race: unknown
+H-index: 9
+Affiliation: Centre Hospitalier Universitaire Sherbrooke, Quebec, Canada canada
+Top Papers:
+  - Title: Chromosomal illegitimate recombination in mammalian cells is associated with intrinsically bent DNA elements.
+  - Title: Genetic exchange between endogenous and exogenous LINE-1 repetitive elements in mouse cells.
+  - Title: Integration of a vector containing a repetitive LINE-1 element in the human genome.
+
+Name: Eduard Nedea
+ID: 8467324
+BeginYear: 1999
+Gender: male
+Race: hispanic
+H-index: 5
+Affiliation: Waksman Institute and Department of Genetics Waksman Institute and Department of Genetics, The State University Piscataway, New Jersey , USA united states of america
+Top Papers:
+  - Title: Localization of Escherichia coli rpoC mutations that affect RNA polymerase assembly and activity at high temperature.
+
+Name: Nadia Dahmane
+ID: 11079722
+BeginYear: 1994
+Gender: female
+Race: white
+H-index: 31
+Affiliation: The Skirball Institute, Department of Cell Biology The Skirball Institute, New York University Medical Center New York , USA united states of america
+Top Papers:
+  - Title: Sonic hedgehog regulates the growth and patterning of the cerebellum.
+  - Title: Gli and hedgehog in cancer: tumours, embryos and stem cells.
+  - Title: Activation of the transcription factor Gli1 and the Sonic hedgehog signalling pathway in skin tumours.
+
+Name: Bowen Chung
+ID: 7022786
+BeginYear: 2002
+Gender: male
+Race: unknown
+H-index: 14
+Affiliation: university of california los angeles Neuropsychiatric Hospital 760 Westwood Plaza, Room C8-846, Los Angeles, CA , USA united states of america
+Top Papers:
+  - Title: New drugs for treatment of attention-deficit/hyperactivity disorder.
+
+Name: Lloyd P Provost
+ID: 1466422
+BeginYear: 2001
+Gender: male
+Race: white
+H-index: 18
+Affiliation: Institute for Healthcare Improvement Institute for Healthcare Improvement Associates in Process Improvement, 115 East 5th Street, Suite 300, Austin, TX , USA united states of america
+Top Papers:
+  - Title: Quality improvement in chronic illness care: a collaborative approach.
+
+Name: Kate Marie
+ID: 9297818
+BeginYear: 2003
+Gender: female
+Race: unknown
+H-index: 3
+Affiliation: Division of Cardiovascular Medicine (J.A.S.), Department of Internal Medicine (S.S.), Division of Biostatistics (M.D.W.), Department of Physiological Nursing, and Blood Institute From the School of Medicine, Clinical Translational Science Center (A.F.), Center for Health and Technology (K.M.), and School of Medicine, University of California, Davis Center for Biobehavioral Research in Self-Management of Cardiopulmonary Disease, College of Nursing, University of Kentucky, University of Nevada, and Blood Institute Bethesda, MD united states of america
+Top Papers:
+
+
+Name: Sean Tunis
+ID: 12389552
+BeginYear: 1987
+Gender: male
+Race: white
+H-index: 45
+Affiliation: Johns Hopkins Program for Medical Technology and Practice Assessment Baltimore, MD united states of america
+Top Papers:
+  - Title: Internists' attitudes about clinical practice guidelines.
+  - Title: Users' guides to the medical literature. VIII. How to use clinical practice guidelines. A. Are the recommendations valid? The Evidence-Based Medicine Working Group.
+  - Title: The use of angioplasty, bypass surgery, and amputation in the management of peripheral vascular disease.
+
+Name: Craig Kuziemsky
+ID: 11296587
+BeginYear: 1999
+Gender: male
+Race: white
+H-index: 19
+Affiliation: University of Victoria Victoria BC, V8W3P5 Canada canada
+Top Papers:
+  - Title: GBF1: A novel Golgi-associated BFA-resistant guanine nucleotide exchange factor that displays specificity for ADP-ribosylation factor 5.
+
+Name: Gary M Olson
+ID: 6488426
+BeginYear: 2003
+Gender: male
+Race: unknown
+H-index: 3
+Affiliation: University of Michigan, 550 East University Avenue ann arbor Ann Arbor, Michigan , USA united states of america
+Top Papers:
+
+
+Name: Alan Richmond
+ID: 7217001
+BeginYear: 2003
+Gender: male
+Race: white
+H-index: 9
+Affiliation: and Blood Institute, National Institutes of Health, Department of Public Health Sciences, Department of Medicine, Department of Health, C.H.B.) Department of Family Medicine, GA (E.O.O.) Division of Cardiovascular Sciences, Department of Epidemiology and Biostatistics, East Lansing (D.F.-H.) National Human Genome Research Institute, National Institute on Minority Health and Health Disparities, E.J.P.-S.) Department of Epidemiology, GA (T.T.L.) Institute for Health Metrics and Evaluation, Seattle (A.H.M.) Department of Neurology, KY (K.D.M.) Department of Population Health, Department of Medical Behavioral Science, Lexington (N.E.S.) Department of Medicine, MD (G.K.S.) National Institute of Diabetes and Digestive and Kidney Diseases From the Center for Translation Research and Implementation Science, and Blood Institute, National Institutes of Health, M.M.E.) Loyola University Medical School, IL (R.S.C.) University of Virginia School of Nursing, Charlottesville (A.M.S.-R.) Johns Hopkins School of Medicine, MD (L.A.C.) Johns Hopkins Bloomberg School of Public Health, MD (L.A.C.) Center for Prevention Implementation Methodology (Ce-PIM), Northwestern University Feinberg School of Medicine, University of Colorado Anschutz Medical Campus, Aurora (J.M.W.) Morehouse School of Medicine, D.C.G.) University of Mississippi Medical Center, Jackson (B.M.B.) University of North Carolina at Chapel Hill School of Nursing (J.L.B.) Michigan State University College of Human Medicine, East Lansing (D.F.-H.) National Human Genome Research Institute, MD (S.Y.G.) School of Public Health, University of Illinois at Chicago (W.H.G., National Institute on Minority Health and Health Disparities, Rollins School of Public Health, Emory University, GA (T.T.L.) Institute for Health Metrics and Evaluation, University of Washington, University of Louisville, Center for Healthful Behavior Change, New York University School of Medicine, NC (A.R.) UK Medical Center, University of Kentucky, University of Mississippi Medical Center (M.S.) Office of Health Equity, MD (G.K.S.) National Institute of Diabetes and Digestive and Kidney Diseases, MD (A.E.S.) and Social and Health Research Center San Antonio, TX united kingdom
+Top Papers:
+
+
+Name: Gail M Keenan
+ID: 9984250
+BeginYear: 1998
+Gender: mostly_female
+Race: unknown
+H-index: 18
+Affiliation: College of Nursing, University of Michigan ann arbor Ann Arbor , USA united states of america
+Top Papers:
+  - Title: Norms and nurse management of conflicts: keys to understanding nurse-physician collaboration.
+  - Title: The HANDS project: studying and refining the automated collection of a cross-setting clinical data set.
+  - Title: Use of standardized nursing language will make nursing visible.
+
+Name: Steven E Labkoff
+ID: 9016570
+BeginYear: 1994
+Gender: male
+Race: white
+H-index: 5
+Affiliation: Brigham and Women's Hospital, Harvard Medical School Boston, Massachusetts united states of america
+Top Papers:
+  - Title: The Constellation Project: experience and evaluation of personal digital assistants in the clinical environment.
+  - Title: The constellation project: access to medical reference information using personal digital assistants.
+  - Title: "Is the Doctor In?"
+
+Name: Peter J Embi
+ID: 11332788
+BeginYear: 1998
+Gender: male
+Race: white
+H-index: 25
+Affiliation: Oregon Health Sciences University Portland, OR , USA united states of america
+Top Papers:
+  - Title: Information at hand: using handheld computers in medicine.
+  - Title: Catatonia. Another neuropsychiatric presentation of vitamin B12 deficiency?
+  - Title: A Web-based curriculum to improve residents' education in outpatient medicine.
+
+### Output Format:
+Please rank all 20 potential collaborators and provide explanations for each ranking in the following JSON format: 
+[
+    {
+        "Name": "Collaborator Name",
+        "ID": "Collaborator ID",
+        "Rank": 1,
+        "Reasons": {
+            "ExpertiseRelevance": "Explanation",
+            "SignificanceAndNovelty": "Explanation",
+            "FairnessCriteria": "Explanation",
+            "AcceptanceReasons": "Explanation",
+            "PotentialConcerns": "Explanation",
+            "OverallRecommendation": {
+                "Score": "Score from 1 to 10",
+                "Reason": "Explanation"
+            }
+        }
+    },
+    ...
+]
+
+Based on the following project details and the suggestions for improvement from reviewers' feedback, rank the potential collaborators from best to worst. 
+The project has specific limitations and areas for improvement that have been highlighted by the reviewers' feedback, and new collaborators are needed to fill the expertise gaps in the current team's skills that are essential for improving the project. 
+Provide a comprehensive explanation for each collaborator's ranking, focusing on how their expertise addresses the expertise gaps and enhances the project's chances of success. Consider the relevance of their expertise as the primary factor, and also weigh fairness criteria such as gender, age, and racial diversity. 
+Given that the last author and the first author typically have the most significant impact on the paper, these roles should be given special attention in your evaluation. 
+
+### Instructions for Ranking Collaborators:
+1. **Review the Provided Data**: You are provided with data about each collaborator, including their expertise, publication record, and other relevant details.
+   - Carefully review this data and the suggestions for improvement identified in the reviewers' feedback.
+2. **Focus on Expertise Gaps**: Focus on identifying the expertise needed from new members outside the current team, who can bring in the critical skills that the project lacks. The current team consists of the First Author, Last Author, and Other Authors. The most important criterion is how well each collaborator's expertise can fill the gaps in the current team's skills, as identified in the reviewers' suggestions for improvement. Collaborators whose skills directly address these gaps should be ranked higher.
+3. **Evaluate Other Criteria**: In addition to expertise relevance, assess each collaborator based on the following criteria:
+   - **Alignment with Expertise Gaps**: How closely does the collaborator's expertise address the specific areas of improvement needed to enhance the project? Focus on whether their skills directly fill the gaps essential for responding to the reviewers' feedback and improving the research. Collaborators with expertise that fills these gaps should be ranked higher.
+   - **Impact on Project Success**: Assess the collaborator's potential contribution to the success of the project. Consider how their previous work, publications, and reputation in the field could enhance the project's outcomes. Focus on their ability to bring unique perspectives or methods that could significantly improve the quality and innovation of the research.
+   - **Fairness and Inclusivity**: Consider how this collaborator's inclusion promotes diversity within the research team. Assess the importance of diversity factors such as gender, race, and age in building a more inclusive and representative research environment. Rank collaborators higher if they contribute to making the team more diverse and inclusive.
+   - **Potential Risks or Limitations**: Identify any concerns that could hinder successful collaboration with this individual. This could include factors like a mismatch in research priorities, potential conflicts of interest, or challenges related to communication. Weigh these factors carefully and rank collaborators lower if there are significant risks or challenges.
+4. **Provide Detailed Explanations**: For each collaborator, provide a thorough explanation of their ranking. Ensure your explanation is backed by data and is detailed in addressing:
+   - How their expertise fills the gaps in the current team's skills and responds to the project's needs.
+   - Their strengths and weaknesses across the other evaluation criteria.
+5. **Objectivity and Accuracy**: Base your ranking on **the data provided**.
+   - You must **ensure that the collaborator's name and ID are correct** for each entry. Each collaborator can only hold one rank from 1 to 20.
+   - The ranking must be from 1 to 20, where each collaborator is ranked only once.
+
+### Data Provided:
+Original Paper Information:
+Title: The culture of safety: results of an organization-wide survey in 15 California hospitals.
+Venue: Quality & safety in health care
+Publication Year: 2003
+
+Reviewers' Suggestions for Improvement:
+
+**Suggestions for improvement**
+   - **Increase Survey Participation:**
+     - Implement more robust strategies to engage physicians and other low-response groups in future surveys.
+     - Consider mixed-method approaches, such as follow-up interviews or focus groups, to complement survey findings and ensure depth of understanding.
+   - **Enhance Representativeness:**
+     - Expand the sample to include a more diverse and randomly selected set of hospitals, encompassing various regions and types.
+     - Include more detailed demographic and contextual information about the participating hospitals to better understand the variability in responses.
+   - **Refine Survey Instrument:**
+     - Incorporate open-ended questions to capture more nuanced insights into attitudes and experiences regarding safety culture.
+     - Perform further validation of the modified survey instrument within different hospital settings to ensure its robustness and comprehensiveness.
+   - **Clarify and Expand Analysis:**
+     - Provide more detailed results and interpretation of multivariate regression and weighting analyses in the main text or supplementary materials.
+     - Conduct additional qualitative analyses to triangulate the survey data and reinforce key findings, ensuring more comprehensive and actionable conclusions.
+
+First Author:
+Name: Sara J Singer
+BeginYear: 1991
+Gender: female
+Race: unknown
+H-index: 30
+Affiliation: Stanford University Graduate School of Business Palo Alto, CA united states of america
+Top Papers:
+  - Title: Managed competition and California's health care economy.
+  - Title: The managed care backlash and the task force in California.
+Recent Papers:
+  - Title: Prospects for improved decision making about medical necessity.
+  - Title: msJAMA: Cosmetic vs reconstructive surgery for cleft palate: A window into the medical necessity debate.
+
+Last Author:
+Name: K C Park
+BeginYear: 2003
+Gender: unknown
+Race: unknown
+H-index: 1
+Affiliation: None
+Top Papers:
+
+Recent Papers:
+
+
+Other Authors:
+Name: David M Gaba
+BeginYear: 1982
+Gender: male
+Race: unknown
+H-index: 45
+Affiliation: Department of Anesthesia Stanford University School of Medicine California united states of america
+Top Papers:
+  - Title: Patient safety: fatigue among clinicians and the safety of patients.
+Recent Papers:
+  - Title: Two examples of how to evaluate the impact of new approaches to teaching.
+
+Name: Jeffrey J Geppert
+BeginYear: 1998
+Gender: male
+Race: white
+H-index: 16
+Affiliation: Battelle Memorial Institute Battelle Memorial Institute Columbus, OH united states of america
+Top Papers:
+  - Title: Risks and costs of end-stage renal disease after heart transplantation.
+Recent Papers:
+  - Title: Racial and sex differences in refusal of coronary angiography.
+
+Name: Anna D Sinaiko
+BeginYear: 2003
+Gender: female
+Race: white
+H-index: 19
+Affiliation: Harvard University Cambridge, Massachusetts, USA united states of america
+Top Papers:
+
+Recent Papers:
+
+
+Name: Steven K Howard
+BeginYear: 1992
+Gender: male
+Race: unknown
+H-index: 27
+Affiliation: Department of Anesthesia Stanford University School of Medicine CA united states of america
+Top Papers:
+  - Title: Patient safety: fatigue among clinicians and the safety of patients.
+Recent Papers:
+  - Title: The risks and implications of excessive daytime sleepiness in resident physicians.
+
+Potential Collaborators:
+Name: Philip Diller
+ID: 4666089
+BeginYear: 1987
+Gender: male
+Race: unknown
+H-index: 9
+Affiliation: Department of Family Medicine University of Cincinnati Ohio united states of america
+Top Papers:
+  - Title: Macrophage free cholesterol content regulates apolipoprotein E synthesis.
+  - Title: Congestive heart failure due to diastolic or systolic dysfunction. Frequency and patient characteristics in an ambulatory setting.
+  - Title: Definition and application of the discretionary screening indicators according to the National Cholesterol Education Program for Children and Adolescents.
+
+Name: A W Crompton
+ID: 6457800
+BeginYear: 1967
+Gender: unknown
+Race: white
+H-index: 22
+Affiliation: Harvard University 26 Oxford St, Cambridge, Massachusetts , USA united kingdom
+Top Papers:
+  - Title: Coordination of mastication and swallowing.
+  - Title: Loading patterns and jaw movements during mastication in Macaca fascicularis: a bone-strain, electromyographic, and cineradiographic analysis.
+  - Title: Food consistency and bite size as regulators of jaw movement during feeding in the cat.
+
+Name: Mathieu Vergnat
+ID: 1892762
+BeginYear: 1976
+Gender: male
+Race: white
+H-index: 18
+Affiliation: Department of Cardiovascular and Thoracic Surgery B Louis Pradel Hospital, Claude Bernard University, INSERM U Bron, France france
+Top Papers:
+  - Title: [Cutaneous manifestations of malabsorption diseases (author's transl)].
+  - Title: Electron-paramagnetic-resonance study of the microscopic structure of the Si(001)-SiO2 interface.
+  - Title: Evidence of hydrogen modulation in Si/Si:H amorphous multilayers.
+
+Name: Srdjan Djurovic
+ID: 3769777
+BeginYear: 1991
+Gender: unknown
+Race: white
+H-index: 58
+Affiliation: University of Oslo and Department of Medical Genetics University of Oslo and Department of Medical Genetics, Ulleval University Hospital Norway norway
+Top Papers:
+  - Title: Dyslipidemia in early second trimester is mainly a feature of women with early onset pre-eclampsia.
+  - Title: Absence of enhanced systemic inflammatory response at 18 weeks of gestation in women with subsequent pre-eclampsia.
+  - Title: Plasma concentrations of Lp(a) lipoprotein and TGF-beta1 are altered in preeclampsia.
+
+Name: Eliza C Small
+ID: 1656173
+BeginYear: 2001
+Gender: female
+Race: unknown
+H-index: 11
+Affiliation: Department of Biochemistry and Molecular Biology The University of Chicago Chicago, Illinois , USA united states of america
+Top Papers:
+  - Title: Development and validation of a competitive AKT serine/threonine kinase fluorescence polarization assay using a product-specific anti-phospho-serine antibody.
+
+Name: Vsevolod J Makeev
+ID: 3032138
+BeginYear: 1995
+Gender: male
+Race: white
+H-index: 25
+Affiliation: V.A. Engelgardt Molecular Biology Institute RAS V.A. Engelgardt Molecular Biology Institute RAS Moscow, Russian Federation russia
+Top Papers:
+  - Title: Extraction of functional binding sites from unique regulatory regions: the Drosophila early developmental enhancers.
+  - Title: Search of periodicities in primary structure of biopolymers: a general Fourier approach.
+  - Title: DNA segmentation through the Bayesian approach.
+
+Name: Andrey Tovchigrechko
+ID: 1452607
+BeginYear: 2001
+Gender: male
+Race: white
+H-index: 19
+Affiliation: Department of Cell and Molecular Pharmacology Medical University of South Carolina Charleston, South Carolina , USA united states of america
+Top Papers:
+  - Title: Docking of protein models.
+  - Title: How common is the funnel-like energy landscape in protein-protein interactions?
+
+Name: J C Wallenburg
+ID: 2043092
+BeginYear: 1984
+Gender: unknown
+Race: unknown
+H-index: 9
+Affiliation: Centre Hospitalier Universitaire Sherbrooke, Quebec, Canada canada
+Top Papers:
+  - Title: Chromosomal illegitimate recombination in mammalian cells is associated with intrinsically bent DNA elements.
+  - Title: Genetic exchange between endogenous and exogenous LINE-1 repetitive elements in mouse cells.
+  - Title: Integration of a vector containing a repetitive LINE-1 element in the human genome.
+
+Name: Eduard Nedea
+ID: 8467324
+BeginYear: 1999
+Gender: male
+Race: hispanic
+H-index: 5
+Affiliation: Waksman Institute and Department of Genetics Waksman Institute and Department of Genetics, The State University Piscataway, New Jersey , USA united states of america
+Top Papers:
+  - Title: Localization of Escherichia coli rpoC mutations that affect RNA polymerase assembly and activity at high temperature.
+
+Name: Nadia Dahmane
+ID: 11079722
+BeginYear: 1994
+Gender: female
+Race: white
+H-index: 31
+Affiliation: The Skirball Institute, Department of Cell Biology The Skirball Institute, New York University Medical Center New York , USA united states of america
+Top Papers:
+  - Title: Sonic hedgehog regulates the growth and patterning of the cerebellum.
+  - Title: Gli and hedgehog in cancer: tumours, embryos and stem cells.
+  - Title: Activation of the transcription factor Gli1 and the Sonic hedgehog signalling pathway in skin tumours.
+
+Name: Bowen Chung
+ID: 7022786
+BeginYear: 2002
+Gender: male
+Race: unknown
+H-index: 14
+Affiliation: university of california los angeles Neuropsychiatric Hospital 760 Westwood Plaza, Room C8-846, Los Angeles, CA , USA united states of america
+Top Papers:
+  - Title: New drugs for treatment of attention-deficit/hyperactivity disorder.
+
+Name: Lloyd P Provost
+ID: 1466422
+BeginYear: 2001
+Gender: male
+Race: white
+H-index: 18
+Affiliation: Institute for Healthcare Improvement Institute for Healthcare Improvement Associates in Process Improvement, 115 East 5th Street, Suite 300, Austin, TX , USA united states of america
+Top Papers:
+  - Title: Quality improvement in chronic illness care: a collaborative approach.
+
+Name: Kate Marie
+ID: 9297818
+BeginYear: 2003
+Gender: female
+Race: unknown
+H-index: 3
+Affiliation: Division of Cardiovascular Medicine (J.A.S.), Department of Internal Medicine (S.S.), Division of Biostatistics (M.D.W.), Department of Physiological Nursing, and Blood Institute From the School of Medicine, Clinical Translational Science Center (A.F.), Center for Health and Technology (K.M.), and School of Medicine, University of California, Davis Center for Biobehavioral Research in Self-Management of Cardiopulmonary Disease, College of Nursing, University of Kentucky, University of Nevada, and Blood Institute Bethesda, MD united states of america
+Top Papers:
+
+
+Name: Sean Tunis
+ID: 12389552
+BeginYear: 1987
+Gender: male
+Race: white
+H-index: 45
+Affiliation: Johns Hopkins Program for Medical Technology and Practice Assessment Baltimore, MD united states of america
+Top Papers:
+  - Title: Internists' attitudes about clinical practice guidelines.
+  - Title: Users' guides to the medical literature. VIII. How to use clinical practice guidelines. A. Are the recommendations valid? The Evidence-Based Medicine Working Group.
+  - Title: The use of angioplasty, bypass surgery, and amputation in the management of peripheral vascular disease.
+
+Name: Craig Kuziemsky
+ID: 11296587
+BeginYear: 1999
+Gender: male
+Race: white
+H-index: 19
+Affiliation: University of Victoria Victoria BC, V8W3P5 Canada canada
+Top Papers:
+  - Title: GBF1: A novel Golgi-associated BFA-resistant guanine nucleotide exchange factor that displays specificity for ADP-ribosylation factor 5.
+
+Name: Gary M Olson
+ID: 6488426
+BeginYear: 2003
+Gender: male
+Race: unknown
+H-index: 3
+Affiliation: University of Michigan, 550 East University Avenue ann arbor Ann Arbor, Michigan , USA united states of america
+Top Papers:
+
+
+Name: Alan Richmond
+ID: 7217001
+BeginYear: 2003
+Gender: male
+Race: white
+H-index: 9
+Affiliation: and Blood Institute, National Institutes of Health, Department of Public Health Sciences, Department of Medicine, Department of Health, C.H.B.) Department of Family Medicine, GA (E.O.O.) Division of Cardiovascular Sciences, Department of Epidemiology and Biostatistics, East Lansing (D.F.-H.) National Human Genome Research Institute, National Institute on Minority Health and Health Disparities, E.J.P.-S.) Department of Epidemiology, GA (T.T.L.) Institute for Health Metrics and Evaluation, Seattle (A.H.M.) Department of Neurology, KY (K.D.M.) Department of Population Health, Department of Medical Behavioral Science, Lexington (N.E.S.) Department of Medicine, MD (G.K.S.) National Institute of Diabetes and Digestive and Kidney Diseases From the Center for Translation Research and Implementation Science, and Blood Institute, National Institutes of Health, M.M.E.) Loyola University Medical School, IL (R.S.C.) University of Virginia School of Nursing, Charlottesville (A.M.S.-R.) Johns Hopkins School of Medicine, MD (L.A.C.) Johns Hopkins Bloomberg School of Public Health, MD (L.A.C.) Center for Prevention Implementation Methodology (Ce-PIM), Northwestern University Feinberg School of Medicine, University of Colorado Anschutz Medical Campus, Aurora (J.M.W.) Morehouse School of Medicine, D.C.G.) University of Mississippi Medical Center, Jackson (B.M.B.) University of North Carolina at Chapel Hill School of Nursing (J.L.B.) Michigan State University College of Human Medicine, East Lansing (D.F.-H.) National Human Genome Research Institute, MD (S.Y.G.) School of Public Health, University of Illinois at Chicago (W.H.G., National Institute on Minority Health and Health Disparities, Rollins School of Public Health, Emory University, GA (T.T.L.) Institute for Health Metrics and Evaluation, University of Washington, University of Louisville, Center for Healthful Behavior Change, New York University School of Medicine, NC (A.R.) UK Medical Center, University of Kentucky, University of Mississippi Medical Center (M.S.) Office of Health Equity, MD (G.K.S.) National Institute of Diabetes and Digestive and Kidney Diseases, MD (A.E.S.) and Social and Health Research Center San Antonio, TX united kingdom
+Top Papers:
+
+
+Name: Gail M Keenan
+ID: 9984250
+BeginYear: 1998
+Gender: mostly_female
+Race: unknown
+H-index: 18
+Affiliation: College of Nursing, University of Michigan ann arbor Ann Arbor , USA united states of america
+Top Papers:
+  - Title: Norms and nurse management of conflicts: keys to understanding nurse-physician collaboration.
+  - Title: The HANDS project: studying and refining the automated collection of a cross-setting clinical data set.
+  - Title: Use of standardized nursing language will make nursing visible.
+
+Name: Steven E Labkoff
+ID: 9016570
+BeginYear: 1994
+Gender: male
+Race: white
+H-index: 5
+Affiliation: Brigham and Women's Hospital, Harvard Medical School Boston, Massachusetts united states of america
+Top Papers:
+  - Title: The Constellation Project: experience and evaluation of personal digital assistants in the clinical environment.
+  - Title: The constellation project: access to medical reference information using personal digital assistants.
+  - Title: "Is the Doctor In?"
+
+Name: Peter J Embi
+ID: 11332788
+BeginYear: 1998
+Gender: male
+Race: white
+H-index: 25
+Affiliation: Oregon Health Sciences University Portland, OR , USA united states of america
+Top Papers:
+  - Title: Information at hand: using handheld computers in medicine.
+  - Title: Catatonia. Another neuropsychiatric presentation of vitamin B12 deficiency?
+  - Title: A Web-based curriculum to improve residents' education in outpatient medicine.
+
+### Output Format:
+Please rank all 20 potential collaborators and provide explanations for each ranking in the following JSON format: 
+[
+    {
+        "Name": "Collaborator Name",
+        "ID": "Collaborator ID",
+        "Rank": 1,
+        "Reasons": {
+            "ExpertiseRelevance": "Explanation",
+            "SignificanceAndNovelty": "Explanation",
+            "FairnessCriteria": "Explanation",
+            "AcceptanceReasons": "Explanation",
+            "PotentialConcerns": "Explanation",
+            "OverallRecommendation": {
+                "Score": "Score from 1 to 10",
+                "Reason": "Explanation"
+            }
+        }
+    },
+    ...
+]
+

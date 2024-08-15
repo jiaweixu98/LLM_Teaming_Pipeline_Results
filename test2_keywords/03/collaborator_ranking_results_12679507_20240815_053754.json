@@ -1,0 +1,322 @@
+[
+  {
+    "Name": "France L\u00e9gar\u00e9",
+    "ID": "4606059",
+    "Rank": 1,
+    "Reasons": {
+      "ExpertiseRelevance": "France L\u00e9gar\u00e9 has a strong background in decision-making and patient engagement strategies, which aligns well with 'Physician engagement strategies'. Her high H-index and extensive publication record in healthcare decision-making make her a top candidate.",
+      "SignificanceAndNovelty": "Her work on decision-making is highly regarded and could bring significant insights into improving physician engagement in the project.",
+      "FairnessCriteria": "As a female researcher, her inclusion would contribute to gender diversity in the research team.",
+      "AcceptanceReasons": "Her expertise is directly relevant, and her reputation in the field could enhance the project's credibility.",
+      "PotentialConcerns": "There are no significant concerns regarding her collaboration.",
+      "OverallRecommendation": {
+        "Score": "10",
+        "Reason": "France L\u00e9gar\u00e9's expertise in decision-making and engagement strategies is a perfect match for the project needs."
+      }
+    }
+  },
+  {
+    "Name": "Clarissa Hsu",
+    "ID": "9753945",
+    "Rank": 2,
+    "Reasons": {
+      "ExpertiseRelevance": "Clarissa Hsu has expertise in clinician-patient interactions and qualitative research, aligning with 'Qualitative data analysis in healthcare'.",
+      "SignificanceAndNovelty": "Her experience with healthcare qualitative research could provide valuable insights for the project.",
+      "FairnessCriteria": "Her inclusion would support gender diversity, being a female researcher.",
+      "AcceptanceReasons": "Her qualitative research skills are highly relevant, making her a strong candidate.",
+      "PotentialConcerns": "No major concerns; however, her expertise is more focused on qualitative methods rather than mixed-methods.",
+      "OverallRecommendation": {
+        "Score": "9",
+        "Reason": "Clarissa Hsu is highly suitable for addressing qualitative research needs, though less on mixed-methods."
+      }
+    }
+  },
+  {
+    "Name": "A Rani Elwy",
+    "ID": "2230889",
+    "Rank": 3,
+    "Reasons": {
+      "ExpertiseRelevance": "A Rani Elwy's background in qualitative studies and healthcare interventions aligns with 'Qualitative data analysis in healthcare'.",
+      "SignificanceAndNovelty": "Her work on healthcare interventions could provide innovative approaches to physician engagement.",
+      "FairnessCriteria": "Her inclusion would bolster racial diversity, given her affiliation with diverse institutions.",
+      "AcceptanceReasons": "Her expertise in qualitative research is directly relevant to the project's needs.",
+      "PotentialConcerns": "No significant concerns, though her work is more qualitative-focused.",
+      "OverallRecommendation": {
+        "Score": "9",
+        "Reason": "Strong candidate for qualitative analysis, with potential contributions to engagement strategies."
+      }
+    }
+  },
+  {
+    "Name": "Sean Tunis",
+    "ID": "12389552",
+    "Rank": 4,
+    "Reasons": {
+      "ExpertiseRelevance": "Sean Tunis has a strong background in medical guidelines and healthcare policy, which could inform 'Physician engagement strategies'.",
+      "SignificanceAndNovelty": "His work on clinical practice guidelines can offer a structured approach to physician engagement.",
+      "FairnessCriteria": "As a male researcher, he does not contribute to gender diversity but adds a wealth of experience.",
+      "AcceptanceReasons": "His expertise in healthcare policy is highly relevant to engagement strategies.",
+      "PotentialConcerns": "His focus is more on policy than on mixed-methods or qualitative research.",
+      "OverallRecommendation": {
+        "Score": "8",
+        "Reason": "Valuable for engagement strategies, but less so for mixed-methods and qualitative aspects."
+      }
+    }
+  },
+  {
+    "Name": "Leah Tuzzio",
+    "ID": "10339290",
+    "Rank": 5,
+    "Reasons": {
+      "ExpertiseRelevance": "Leah Tuzzio's work with community health initiatives aligns with 'Physician engagement strategies'.",
+      "SignificanceAndNovelty": "Her background in community health can provide novel insights into engaging physicians.",
+      "FairnessCriteria": "Her inclusion supports gender diversity as a female researcher.",
+      "AcceptanceReasons": "Relevant experience in engagement strategies makes her a strong candidate.",
+      "PotentialConcerns": "Her expertise may not fully cover mixed-methods research design.",
+      "OverallRecommendation": {
+        "Score": "8",
+        "Reason": "Good match for engagement strategies; moderate for mixed-methods."
+      }
+    }
+  },
+  {
+    "Name": "Philip Diller",
+    "ID": "4666089",
+    "Rank": 6,
+    "Reasons": {
+      "ExpertiseRelevance": "Philip Diller has experience in family medicine and patient engagement, relevant to 'Physician engagement strategies'.",
+      "SignificanceAndNovelty": "His work in family medicine can provide insights into engagement at the primary care level.",
+      "FairnessCriteria": "As a male researcher, he doesn't enhance gender diversity but brings valuable experience.",
+      "AcceptanceReasons": "His expertise in clinical settings is beneficial for engagement strategies.",
+      "PotentialConcerns": "His background is less focused on mixed-methods or qualitative research.",
+      "OverallRecommendation": {
+        "Score": "7",
+        "Reason": "Strong in engagement strategies; less in other areas."
+      }
+    }
+  },
+  {
+    "Name": "Lyle J Fagnan",
+    "ID": "7569831",
+    "Rank": 7,
+    "Reasons": {
+      "ExpertiseRelevance": "Lyle J Fagnan's work in family medicine and healthcare improvement aligns with 'Physician engagement strategies'.",
+      "SignificanceAndNovelty": "His focus on healthcare improvement can provide practical strategies for engagement.",
+      "FairnessCriteria": "His inclusion does not enhance diversity but adds valuable expertise.",
+      "AcceptanceReasons": "His practical experience in family medicine strengthens engagement strategies.",
+      "PotentialConcerns": "He lacks a mixed-methods research background.",
+      "OverallRecommendation": {
+        "Score": "7",
+        "Reason": "Valuable for engagement strategies; limited in mixed-methods."
+      }
+    }
+  },
+  {
+    "Name": "Peter J Embi",
+    "ID": "11332788",
+    "Rank": 8,
+    "Reasons": {
+      "ExpertiseRelevance": "Peter J Embi has a background in medical informatics, offering potential contributions to mixed-methods design.",
+      "SignificanceAndNovelty": "His work in informatics could enhance data analysis and integration within the project.",
+      "FairnessCriteria": "As a male researcher, he does not contribute to gender diversity.",
+      "AcceptanceReasons": "His informatics expertise is a valuable asset for mixed-methods research.",
+      "PotentialConcerns": "His experience is less focused on qualitative aspects.",
+      "OverallRecommendation": {
+        "Score": "6",
+        "Reason": "Good for mixed-methods; limited for qualitative analysis."
+      }
+    }
+  },
+  {
+    "Name": "Vsevolod J Makeev",
+    "ID": "3032138",
+    "Rank": 9,
+    "Reasons": {
+      "ExpertiseRelevance": "Vsevolod J Makeev's work in molecular biology offers potential insights into data analysis techniques.",
+      "SignificanceAndNovelty": "His computational approach could aid in data analysis methodologies.",
+      "FairnessCriteria": "Does not enhance diversity but brings strong analytical skills.",
+      "AcceptanceReasons": "His analytical skills could benefit the project's data analysis component.",
+      "PotentialConcerns": "His background is not directly in healthcare or mixed-methods.",
+      "OverallRecommendation": {
+        "Score": "6",
+        "Reason": "Valuable for data analysis; less for healthcare-specific insights."
+      }
+    }
+  },
+  {
+    "Name": "Gail M Keenan",
+    "ID": "9984250",
+    "Rank": 10,
+    "Reasons": {
+      "ExpertiseRelevance": "Gail M Keenan's work focuses on nurse-physician collaboration, relevant to 'Physician engagement strategies'.",
+      "SignificanceAndNovelty": "Her insights into collaboration can inform engagement strategies.",
+      "FairnessCriteria": "As a mostly female researcher, she supports gender diversity.",
+      "AcceptanceReasons": "Her collaboration expertise is relevant for engagement strategies.",
+      "PotentialConcerns": "Her primary focus is on nursing rather than mixed-methods or qualitative research.",
+      "OverallRecommendation": {
+        "Score": "6",
+        "Reason": "Useful for engagement strategies; limited for mixed-methods."
+      }
+    }
+  },
+  {
+    "Name": "J C Wallenburg",
+    "ID": "2043092",
+    "Rank": 11,
+    "Reasons": {
+      "ExpertiseRelevance": "J C Wallenburg has a medical background, but limited direct alignment with the specific keywords.",
+      "SignificanceAndNovelty": "Their work in genetics does not directly address the project's needs.",
+      "FairnessCriteria": "Does not enhance diversity significantly.",
+      "AcceptanceReasons": "Limited relevance to the specific expertise gaps identified.",
+      "PotentialConcerns": "Expertise is not directly applicable to the project's core needs.",
+      "OverallRecommendation": {
+        "Score": "5",
+        "Reason": "Limited relevance to the key expertise gaps."
+      }
+    }
+  },
+  {
+    "Name": "Eduard Nedea",
+    "ID": "8467324",
+    "Rank": 12,
+    "Reasons": {
+      "ExpertiseRelevance": "Eduard Nedea's expertise in genetics does not align with the project's specific needs.",
+      "SignificanceAndNovelty": "His work on genetics is not directly applicable to the project's focus areas.",
+      "FairnessCriteria": "As a Hispanic researcher, he contributes to racial diversity.",
+      "AcceptanceReasons": "Limited relevance to the project's focus on healthcare engagement and research methods.",
+      "PotentialConcerns": "His work is not directly related to healthcare or mixed-methods research.",
+      "OverallRecommendation": {
+        "Score": "4",
+        "Reason": "Minimal relevance to the project's key expertise needs."
+      }
+    }
+  },
+  {
+    "Name": "Gary M Olson",
+    "ID": "6488426",
+    "Rank": 13,
+    "Reasons": {
+      "ExpertiseRelevance": "Gary M Olson's background is not directly related to the project's specific keywords.",
+      "SignificanceAndNovelty": "His limited publication record suggests less potential impact on the project.",
+      "FairnessCriteria": "Does not significantly contribute to diversity.",
+      "AcceptanceReasons": "Limited relevance and publication record reduce his potential impact.",
+      "PotentialConcerns": "Limited expertise in the project's focus areas.",
+      "OverallRecommendation": {
+        "Score": "3",
+        "Reason": "Insufficient alignment with the project's expertise needs."
+      }
+    }
+  },
+  {
+    "Name": "Eliza C Small",
+    "ID": "1656173",
+    "Rank": 14,
+    "Reasons": {
+      "ExpertiseRelevance": "Eliza C Small's expertise in biochemistry is not directly relevant to the project's needs.",
+      "SignificanceAndNovelty": "Her work in biochemistry does not address the specific expertise gaps.",
+      "FairnessCriteria": "As a female researcher, she supports gender diversity.",
+      "AcceptanceReasons": "Her expertise does not align with the project's focus on healthcare and research methods.",
+      "PotentialConcerns": "Limited relevance to the project's key areas of need.",
+      "OverallRecommendation": {
+        "Score": "3",
+        "Reason": "Minimal relevance to the project's expertise needs."
+      }
+    }
+  },
+  {
+    "Name": "Nadia Dahmane",
+    "ID": "11079722",
+    "Rank": 15,
+    "Reasons": {
+      "ExpertiseRelevance": "Nadia Dahmane's work in cell biology is not directly relevant to the project's key areas.",
+      "SignificanceAndNovelty": "Her expertise in biology does not align with the healthcare focus of the project.",
+      "FairnessCriteria": "As a female researcher, she contributes to gender diversity.",
+      "AcceptanceReasons": "Her expertise is not aligned with the project's healthcare and research method needs.",
+      "PotentialConcerns": "Limited relevance to the project's specific expertise gaps.",
+      "OverallRecommendation": {
+        "Score": "3",
+        "Reason": "Insufficient alignment with the project's focus areas."
+      }
+    }
+  },
+  {
+    "Name": "Andrey Tovchigrechko",
+    "ID": "1452607",
+    "Rank": 16,
+    "Reasons": {
+      "ExpertiseRelevance": "Andrey Tovchigrechko's focus on molecular pharmacology does not align with the project's needs.",
+      "SignificanceAndNovelty": "His work is more relevant to molecular biology than healthcare engagement or research methods.",
+      "FairnessCriteria": "Does not significantly enhance diversity.",
+      "AcceptanceReasons": "Limited relevance to the project's focus on healthcare and engagement strategies.",
+      "PotentialConcerns": "Expertise does not address the project's key areas.",
+      "OverallRecommendation": {
+        "Score": "2",
+        "Reason": "Minimal relevance to the project's expertise needs."
+      }
+    }
+  },
+  {
+    "Name": "Mathieu Vergnat",
+    "ID": "1892762",
+    "Rank": 17,
+    "Reasons": {
+      "ExpertiseRelevance": "Mathieu Vergnat's work in cardiovascular surgery is not directly relevant to the project's specific needs.",
+      "SignificanceAndNovelty": "His expertise is more clinical and less focused on research methods or engagement strategies.",
+      "FairnessCriteria": "Contributes to racial diversity as a white researcher from France.",
+      "AcceptanceReasons": "Limited relevance to the project's healthcare engagement and research method focus.",
+      "PotentialConcerns": "Expertise does not align with the project's core needs.",
+      "OverallRecommendation": {
+        "Score": "2",
+        "Reason": "Minimal relevance to the project's expertise needs."
+      }
+    }
+  },
+  {
+    "Name": "Srdjan Djurovic",
+    "ID": "3769777",
+    "Rank": 18,
+    "Reasons": {
+      "ExpertiseRelevance": "Srdjan Djurovic's focus on genetics and pre-eclampsia does not align with the project's healthcare research needs.",
+      "SignificanceAndNovelty": "His work is more relevant to genetics than healthcare engagement or research methods.",
+      "FairnessCriteria": "Does not significantly enhance diversity.",
+      "AcceptanceReasons": "Limited relevance to the project's focus on engagement strategies or research methods.",
+      "PotentialConcerns": "Expertise does not address the project's key areas.",
+      "OverallRecommendation": {
+        "Score": "2",
+        "Reason": "Insufficient alignment with the project's expertise needs."
+      }
+    }
+  },
+  {
+    "Name": "A W Crompton",
+    "ID": "6457800",
+    "Rank": 19,
+    "Reasons": {
+      "ExpertiseRelevance": "A W Crompton's expertise in mastication and feeding behaviors is not relevant to the project's needs.",
+      "SignificanceAndNovelty": "His work does not address the healthcare focus of the project.",
+      "FairnessCriteria": "Contributes to racial diversity as a white researcher from the UK.",
+      "AcceptanceReasons": "Expertise is not aligned with the project's focus areas.",
+      "PotentialConcerns": "Limited relevance to the project's expertise needs.",
+      "OverallRecommendation": {
+        "Score": "1",
+        "Reason": "Minimal relevance to the project's expertise needs."
+      }
+    }
+  },
+  {
+    "Name": "Lloyd P Provost",
+    "ID": "1466422",
+    "Rank": 20,
+    "Reasons": {
+      "ExpertiseRelevance": "Lloyd P Provost's focus is on quality improvement in chronic illness care, which doesn't directly align with the key expertise gaps.",
+      "SignificanceAndNovelty": "His work does not offer direct insights into physician engagement strategies or mixed-methods research.",
+      "FairnessCriteria": "Does not enhance diversity significantly.",
+      "AcceptanceReasons": "Limited relevance to the project's specific focus on physician engagement and research methods.",
+      "PotentialConcerns": "Expertise does not directly address the project's needs.",
+      "OverallRecommendation": {
+        "Score": "1",
+        "Reason": "Insufficient alignment with the project's focus areas."
+      }
+    }
+  }
+]

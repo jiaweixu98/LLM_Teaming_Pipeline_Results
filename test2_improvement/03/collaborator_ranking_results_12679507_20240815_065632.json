@@ -1,0 +1,322 @@
+[
+  {
+    "Name": "France L\u00e9gar\u00e9",
+    "ID": "4606059",
+    "Rank": 1,
+    "Reasons": {
+      "ExpertiseRelevance": "France L\u00e9gar\u00e9 has extensive experience in decision-making processes and evaluation of medical web tools, which aligns with the need for enhanced survey methods and mixed-method approaches.",
+      "SignificanceAndNovelty": "Her high h-index and background in randomized controlled trials suggest she can bring innovative survey techniques to the project.",
+      "FairnessCriteria": "Her inclusion would add gender diversity to the team.",
+      "AcceptanceReasons": "Her expertise in medical decision-making is crucial for implementing robust survey strategies.",
+      "PotentialConcerns": "None significant.",
+      "OverallRecommendation": {
+        "Score": 10,
+        "Reason": "She addresses key gaps in survey methodology and offers significant expertise in healthcare decision-making."
+      }
+    }
+  },
+  {
+    "Name": "A Rani Elwy",
+    "ID": "2230889",
+    "Rank": 2,
+    "Reasons": {
+      "ExpertiseRelevance": "A Rani Elwy's background in qualitative research and genetic counseling aligns with the need for mixed-method approaches and qualitative analysis.",
+      "SignificanceAndNovelty": "Her work in systematic reviews and qualitative case studies can enhance the depth of analysis.",
+      "FairnessCriteria": "Her inclusion would contribute to racial and gender diversity.",
+      "AcceptanceReasons": "She can provide insights into qualitative data collection and analysis, addressing a major gap.",
+      "PotentialConcerns": "None significant.",
+      "OverallRecommendation": {
+        "Score": 9,
+        "Reason": "Her qualitative expertise is essential for comprehensive data analysis."
+      }
+    }
+  },
+  {
+    "Name": "Clarissa Hsu",
+    "ID": "9753945",
+    "Rank": 3,
+    "Reasons": {
+      "ExpertiseRelevance": "Clarissa Hsu has experience in clinician-patient interactions and midwifery training, relevant for engaging low-response groups.",
+      "SignificanceAndNovelty": "Her work can introduce effective engagement strategies for survey participation.",
+      "FairnessCriteria": "Her inclusion would enhance gender diversity.",
+      "AcceptanceReasons": "She addresses the need for engaging diverse groups and understanding their perspectives.",
+      "PotentialConcerns": "Potential overlap with existing team members.",
+      "OverallRecommendation": {
+        "Score": 8,
+        "Reason": "Her expertise in engagement is vital for increasing survey participation."
+      }
+    }
+  },
+  {
+    "Name": "Leah Tuzzio",
+    "ID": "10339290",
+    "Rank": 4,
+    "Reasons": {
+      "ExpertiseRelevance": "Leah Tuzzio's work in community health and cancer education aligns with expanding sample representativeness and capturing diverse hospital demographics.",
+      "SignificanceAndNovelty": "Her experience in community engagement can enhance survey representativeness.",
+      "FairnessCriteria": "Her inclusion would add racial and gender diversity.",
+      "AcceptanceReasons": "She can contribute to broadening the sample pool and improving demographic diversity.",
+      "PotentialConcerns": "None significant.",
+      "OverallRecommendation": {
+        "Score": 8,
+        "Reason": "Her community-focused approach is valuable for enhancing sample diversity."
+      }
+    }
+  },
+  {
+    "Name": "Gail M Keenan",
+    "ID": "9984250",
+    "Rank": 5,
+    "Reasons": {
+      "ExpertiseRelevance": "Gail M Keenan has expertise in nursing management and conflict resolution, relevant for improving survey instruments and data collection.",
+      "SignificanceAndNovelty": "Her work in standardized language in nursing can refine survey questions.",
+      "FairnessCriteria": "Adds gender diversity.",
+      "AcceptanceReasons": "Her insights into conflict management can enhance survey instrument refinement.",
+      "PotentialConcerns": "Potential overlap with existing team members.",
+      "OverallRecommendation": {
+        "Score": 7,
+        "Reason": "Her expertise can refine and validate survey instruments."
+      }
+    }
+  },
+  {
+    "Name": "Sean Tunis",
+    "ID": "12389552",
+    "Rank": 6,
+    "Reasons": {
+      "ExpertiseRelevance": "Sean Tunis's background in clinical practice guidelines can aid in refining survey instruments and analysis.",
+      "SignificanceAndNovelty": "His high h-index indicates a strong impact in the field.",
+      "FairnessCriteria": "Adds male presence but lacks racial diversity.",
+      "AcceptanceReasons": "His experience with guidelines can improve survey validity.",
+      "PotentialConcerns": "Limited contribution to diversity.",
+      "OverallRecommendation": {
+        "Score": 7,
+        "Reason": "His expertise in practice guidelines is useful for survey refinement."
+      }
+    }
+  },
+  {
+    "Name": "Lloyd P Provost",
+    "ID": "1466422",
+    "Rank": 7,
+    "Reasons": {
+      "ExpertiseRelevance": "Lloyd P Provost's work in quality improvement aligns with the need to clarify and expand analysis.",
+      "SignificanceAndNovelty": "His experience in collaborative approaches can enhance project outcomes.",
+      "FairnessCriteria": "Adds male presence but lacks racial diversity.",
+      "AcceptanceReasons": "His insights into quality improvement are valuable for data analysis.",
+      "PotentialConcerns": "Limited contribution to diversity.",
+      "OverallRecommendation": {
+        "Score": 6,
+        "Reason": "His quality improvement expertise is relevant for analysis."
+      }
+    }
+  },
+  {
+    "Name": "Peter J Embi",
+    "ID": "11332788",
+    "Rank": 8,
+    "Reasons": {
+      "ExpertiseRelevance": "Peter J Embi's experience with web-based curricula can support the enhancement of survey tools.",
+      "SignificanceAndNovelty": "His work can bring innovative techniques for data collection.",
+      "FairnessCriteria": "Adds male presence but lacks racial diversity.",
+      "AcceptanceReasons": "His background in web-based tools can refine survey methods.",
+      "PotentialConcerns": "Potential overlap with existing team members.",
+      "OverallRecommendation": {
+        "Score": 6,
+        "Reason": "His expertise in web tools can enhance survey instruments."
+      }
+    }
+  },
+  {
+    "Name": "Srdjan Djurovic",
+    "ID": "3769777",
+    "Rank": 9,
+    "Reasons": {
+      "ExpertiseRelevance": "Srdjan Djurovic's background in genetics and pre-eclampsia research is less directly related but could provide a fresh perspective on data analysis.",
+      "SignificanceAndNovelty": "His high h-index suggests impactful work, though not directly aligned with survey needs.",
+      "FairnessCriteria": "Adds racial diversity as a white collaborator.",
+      "AcceptanceReasons": "Could offer novel insights into data analysis.",
+      "PotentialConcerns": "Expertise not directly aligned with project needs.",
+      "OverallRecommendation": {
+        "Score": 5,
+        "Reason": "High h-index but indirect relevance to project needs."
+      }
+    }
+  },
+  {
+    "Name": "Andrey Tovchigrechko",
+    "ID": "1452607",
+    "Rank": 10,
+    "Reasons": {
+      "ExpertiseRelevance": "Andrey Tovchigrechko's work in protein interactions might not directly apply but could bring analytical rigor.",
+      "SignificanceAndNovelty": "His experience in analytical methods could add value to data analysis.",
+      "FairnessCriteria": "Adds male presence but lacks racial diversity.",
+      "AcceptanceReasons": "Analytical expertise could enhance data interpretation.",
+      "PotentialConcerns": "Indirect relevance to project needs.",
+      "OverallRecommendation": {
+        "Score": 5,
+        "Reason": "Analytical skills useful but not directly aligned."
+      }
+    }
+  },
+  {
+    "Name": "Vsevolod J Makeev",
+    "ID": "3032138",
+    "Rank": 11,
+    "Reasons": {
+      "ExpertiseRelevance": "Vsevolod J Makeev's background in molecular biology and data segmentation could indirectly support analysis refinement.",
+      "SignificanceAndNovelty": "His experience with biopolymers offers a unique analytical perspective.",
+      "FairnessCriteria": "Adds male presence but lacks racial diversity.",
+      "AcceptanceReasons": "Could provide novel data segmentation insights.",
+      "PotentialConcerns": "Expertise not directly related to project needs.",
+      "OverallRecommendation": {
+        "Score": 4,
+        "Reason": "Unique analytical perspective but indirect relevance."
+      }
+    }
+  },
+  {
+    "Name": "Mathieu Vergnat",
+    "ID": "1892762",
+    "Rank": 12,
+    "Reasons": {
+      "ExpertiseRelevance": "Mathieu Vergnat's expertise in cardiovascular and thoracic surgery is not directly related to the project's needs.",
+      "SignificanceAndNovelty": "His work in medical research might offer a broader perspective.",
+      "FairnessCriteria": "Adds male presence but lacks racial diversity.",
+      "AcceptanceReasons": "His medical research background might indirectly enhance project outcomes.",
+      "PotentialConcerns": "Expertise not aligned with survey methodology.",
+      "OverallRecommendation": {
+        "Score": 4,
+        "Reason": "Medical research experience but indirect relevance."
+      }
+    }
+  },
+  {
+    "Name": "Eliza C Small",
+    "ID": "1656173",
+    "Rank": 13,
+    "Reasons": {
+      "ExpertiseRelevance": "Eliza C Small's work in biochemistry and molecular biology does not directly address project needs.",
+      "SignificanceAndNovelty": "Her analytical skills may support data analysis indirectly.",
+      "FairnessCriteria": "Adds gender diversity.",
+      "AcceptanceReasons": "Analytical skills could support data analysis.",
+      "PotentialConcerns": "Limited relevance to survey methodology.",
+      "OverallRecommendation": {
+        "Score": 3,
+        "Reason": "Analytical skills are useful but not directly relevant."
+      }
+    }
+  },
+  {
+    "Name": "Eduard Nedea",
+    "ID": "8467324",
+    "Rank": 14,
+    "Reasons": {
+      "ExpertiseRelevance": "Eduard Nedea's work in genetics and RNA polymerase is not aligned with the immediate project needs.",
+      "SignificanceAndNovelty": "Potential for innovative analysis techniques, though not directly relevant.",
+      "FairnessCriteria": "Adds racial diversity as a Hispanic collaborator.",
+      "AcceptanceReasons": "Could offer unique analytical insights.",
+      "PotentialConcerns": "Expertise not directly relevant.",
+      "OverallRecommendation": {
+        "Score": 3,
+        "Reason": "Unique insights but indirect relevance."
+      }
+    }
+  },
+  {
+    "Name": "Philip Diller",
+    "ID": "4666089",
+    "Rank": 15,
+    "Reasons": {
+      "ExpertiseRelevance": "Philip Diller's experience in family medicine and cholesterol does not directly address the project's needs.",
+      "SignificanceAndNovelty": "Limited novelty in survey methodology.",
+      "FairnessCriteria": "Adds male presence but lacks racial diversity.",
+      "AcceptanceReasons": "Medical background could offer a general perspective.",
+      "PotentialConcerns": "Expertise not relevant to survey needs.",
+      "OverallRecommendation": {
+        "Score": 2,
+        "Reason": "General medical background but not directly relevant."
+      }
+    }
+  },
+  {
+    "Name": "J C Wallenburg",
+    "ID": "2043092",
+    "Rank": 16,
+    "Reasons": {
+      "ExpertiseRelevance": "J C Wallenburg's work in chromosomal recombination does not align with project needs.",
+      "SignificanceAndNovelty": "Limited relevance to survey methodology.",
+      "FairnessCriteria": "Unknown gender/race.",
+      "AcceptanceReasons": "None significant.",
+      "PotentialConcerns": "Expertise not relevant.",
+      "OverallRecommendation": {
+        "Score": 2,
+        "Reason": "Expertise does not align with project needs."
+      }
+    }
+  },
+  {
+    "Name": "Nadia Dahmane",
+    "ID": "11079722",
+    "Rank": 17,
+    "Reasons": {
+      "ExpertiseRelevance": "Nadia Dahmane's research in Gli and hedgehog pathways is unrelated to the project.",
+      "SignificanceAndNovelty": "Her background in cell biology provides limited relevance.",
+      "FairnessCriteria": "Adds gender and racial diversity.",
+      "AcceptanceReasons": "None significant.",
+      "PotentialConcerns": "Expertise not relevant.",
+      "OverallRecommendation": {
+        "Score": 2,
+        "Reason": "Expertise not aligned with project needs."
+      }
+    }
+  },
+  {
+    "Name": "Gary M Olson",
+    "ID": "6488426",
+    "Rank": 18,
+    "Reasons": {
+      "ExpertiseRelevance": "Gary M Olson's lack of top papers limits his perceived expertise relevance.",
+      "SignificanceAndNovelty": "Limited evidence of significant contribution to the project.",
+      "FairnessCriteria": "Adds male presence.",
+      "AcceptanceReasons": "None significant.",
+      "PotentialConcerns": "Low h-index and limited publication record.",
+      "OverallRecommendation": {
+        "Score": 1,
+        "Reason": "Limited evidence of relevant expertise."
+      }
+    }
+  },
+  {
+    "Name": "A W Crompton",
+    "ID": "6457800",
+    "Rank": 19,
+    "Reasons": {
+      "ExpertiseRelevance": "A W Crompton's focus on mastication and jaw movements is not relevant to the project.",
+      "SignificanceAndNovelty": "Lacks relevance to survey methodology.",
+      "FairnessCriteria": "Unknown gender/race.",
+      "AcceptanceReasons": "None significant.",
+      "PotentialConcerns": "Expertise not relevant.",
+      "OverallRecommendation": {
+        "Score": 1,
+        "Reason": "Expertise does not align with project needs."
+      }
+    }
+  },
+  {
+    "Name": "Lyle J Fagnan",
+    "ID": "7569831",
+    "Rank": 20,
+    "Reasons": {
+      "ExpertiseRelevance": "Lyle J Fagnan's work in family medicine and sinusitis does not address the project's expertise gaps.",
+      "SignificanceAndNovelty": "Limited relevance to survey methodology.",
+      "FairnessCriteria": "Adds male presence.",
+      "AcceptanceReasons": "None significant.",
+      "PotentialConcerns": "Expertise not relevant.",
+      "OverallRecommendation": {
+        "Score": 1,
+        "Reason": "Expertise does not align with project needs."
+      }
+    }
+  }
+]

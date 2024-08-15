@@ -1,0 +1,322 @@
+[
+  {
+    "Name": "France L\u00e9gar\u00e9",
+    "ID": "4606059",
+    "Rank": 1,
+    "Reasons": {
+      "ExpertiseRelevance": "France L\u00e9gar\u00e9 has a strong background in mixed-methods research design, particularly in healthcare settings, which is directly relevant to the project's needs.",
+      "SignificanceAndNovelty": "Her expertise could significantly enhance the methodological rigor and innovation of the project.",
+      "FairnessCriteria": "As a female researcher, her inclusion would support gender diversity.",
+      "AcceptanceReasons": "Her high H-index and strong publication record suggest she could greatly impact the project's success.",
+      "PotentialConcerns": "No significant risks or limitations identified.",
+      "OverallRecommendation": {
+        "Score": "10",
+        "Reason": "Her expertise in mixed-methods research design makes her an ideal collaborator."
+      }
+    }
+  },
+  {
+    "Name": "Deborah J Cohen",
+    "ID": "4551382",
+    "Rank": 2,
+    "Reasons": {
+      "ExpertiseRelevance": "Deborah J Cohen has significant experience in qualitative data analysis in healthcare, which aligns well with one of the project's key gaps.",
+      "SignificanceAndNovelty": "Her work can introduce valuable qualitative insights into the project.",
+      "FairnessCriteria": "Her inclusion would also support gender diversity within the team.",
+      "AcceptanceReasons": "Her H-index and publication record in healthcare suggest she can contribute effectively.",
+      "PotentialConcerns": "No major concerns found.",
+      "OverallRecommendation": {
+        "Score": "9",
+        "Reason": "Her expertise in qualitative analysis is crucial for the project's success."
+      }
+    }
+  },
+  {
+    "Name": "Sophie Staniszewska",
+    "ID": "9189496",
+    "Rank": 3,
+    "Reasons": {
+      "ExpertiseRelevance": "Sophie Staniszewska's work focuses on patient expectations and satisfaction, indirectly relating to physician engagement strategies.",
+      "SignificanceAndNovelty": "Her insights can improve engagement strategies by understanding patient perspectives.",
+      "FairnessCriteria": "Her inclusion would enhance gender and racial diversity.",
+      "AcceptanceReasons": "Her robust H-index indicates a strong academic influence.",
+      "PotentialConcerns": "Her expertise is somewhat tangential but still relevant.",
+      "OverallRecommendation": {
+        "Score": "8",
+        "Reason": "Her experience adds value, especially in understanding engagement strategies."
+      }
+    }
+  },
+  {
+    "Name": "Clarissa Hsu",
+    "ID": "9753945",
+    "Rank": 4,
+    "Reasons": {
+      "ExpertiseRelevance": "Clarissa Hsu has significant experience in clinician-patient interactions, relevant to physician engagement strategies.",
+      "SignificanceAndNovelty": "Her perspective can offer innovative solutions to improving physician engagement.",
+      "FairnessCriteria": "Her inclusion supports gender diversity.",
+      "AcceptanceReasons": "Her H-index supports her credibility in the field.",
+      "PotentialConcerns": "No significant concerns noted.",
+      "OverallRecommendation": {
+        "Score": "8",
+        "Reason": "Her expertise in engagement strategies is valuable for the project."
+      }
+    }
+  },
+  {
+    "Name": "Melinda M Davis",
+    "ID": "13312903",
+    "Rank": 5,
+    "Reasons": {
+      "ExpertiseRelevance": "Melinda M Davis has contributed to healthcare research with a focus on qualitative methods.",
+      "SignificanceAndNovelty": "Her insights could enhance qualitative data analysis within the project.",
+      "FairnessCriteria": "Supports gender diversity.",
+      "AcceptanceReasons": "Her publication record is solid, adding to the project\u2019s credibility.",
+      "PotentialConcerns": "Her primary research focus is not directly aligned but still beneficial.",
+      "OverallRecommendation": {
+        "Score": "7",
+        "Reason": "Her qualitative research expertise is beneficial."
+      }
+    }
+  },
+  {
+    "Name": "A Rani Elwy",
+    "ID": "2230889",
+    "Rank": 6,
+    "Reasons": {
+      "ExpertiseRelevance": "A Rani Elwy has experience with qualitative studies, relevant to the project\u2019s needs.",
+      "SignificanceAndNovelty": "Her work can enrich qualitative analysis aspects.",
+      "FairnessCriteria": "Her inclusion would promote racial and gender diversity.",
+      "AcceptanceReasons": "Her H-index and publication record support her role.",
+      "PotentialConcerns": "Focus on genetic counseling may not fully align but is still useful.",
+      "OverallRecommendation": {
+        "Score": "7",
+        "Reason": "Beneficial for qualitative data analysis."
+      }
+    }
+  },
+  {
+    "Name": "Leah Tuzzio",
+    "ID": "10339290",
+    "Rank": 7,
+    "Reasons": {
+      "ExpertiseRelevance": "Leah Tuzzio\u2019s work on cancer education reflects her ability to engage with healthcare professionals.",
+      "SignificanceAndNovelty": "Contributions could bolster physician engagement strategies.",
+      "FairnessCriteria": "Her inclusion supports gender diversity.",
+      "AcceptanceReasons": "Her H-index is respectable, suggesting reliable expertise.",
+      "PotentialConcerns": "Her expertise is more indirect.",
+      "OverallRecommendation": {
+        "Score": "6",
+        "Reason": "Useful for engagement strategies, though not directly aligned."
+      }
+    }
+  },
+  {
+    "Name": "Lyle J Fagnan",
+    "ID": "7569831",
+    "Rank": 8,
+    "Reasons": {
+      "ExpertiseRelevance": "Lyle J Fagnan\u2019s work in family medicine could contribute to physician engagement strategies.",
+      "SignificanceAndNovelty": "Offers practical insights into engaging physicians in family practice settings.",
+      "FairnessCriteria": "Adds gender and racial diversity.",
+      "AcceptanceReasons": "His experience and H-index indicate potential impact.",
+      "PotentialConcerns": "Engagement expertise is somewhat tangential.",
+      "OverallRecommendation": {
+        "Score": "6",
+        "Reason": "Relevant to engagement strategies within a specific context."
+      }
+    }
+  },
+  {
+    "Name": "Carolyn Petersen",
+    "ID": "1030820",
+    "Rank": 9,
+    "Reasons": {
+      "ExpertiseRelevance": "Carolyn Petersen\u2019s focus on health information could support qualitative data analysis.",
+      "SignificanceAndNovelty": "Her work can provide a novel angle on data management and analysis.",
+      "FairnessCriteria": "Supports gender diversity.",
+      "AcceptanceReasons": "Her H-index suggests she can contribute effectively.",
+      "PotentialConcerns": "Her primary focus is on information quality rather than analysis.",
+      "OverallRecommendation": {
+        "Score": "5",
+        "Reason": "Adds value to data analysis, though not central."
+      }
+    }
+  },
+  {
+    "Name": "Paul Meissner",
+    "ID": "6365250",
+    "Rank": 10,
+    "Reasons": {
+      "ExpertiseRelevance": "Paul Meissner\u2019s work in geriatric patient management could inform physician engagement strategies.",
+      "SignificanceAndNovelty": "His experience could enrich engagement tactics in elder care settings.",
+      "FairnessCriteria": "Contributes to gender diversity.",
+      "AcceptanceReasons": "His H-index reflects a moderate level of expertise.",
+      "PotentialConcerns": "His focus may not fully align with the project's broader needs.",
+      "OverallRecommendation": {
+        "Score": "5",
+        "Reason": "Potentially useful for specialized engagement strategies."
+      }
+    }
+  },
+  {
+    "Name": "Eduard Nedea",
+    "ID": "8467324",
+    "Rank": 11,
+    "Reasons": {
+      "ExpertiseRelevance": "Eduard Nedea\u2019s background in genetics might indirectly support qualitative data analysis.",
+      "SignificanceAndNovelty": "His insights could offer a novel perspective on data interpretation.",
+      "FairnessCriteria": "Supports racial diversity.",
+      "AcceptanceReasons": "His H-index suggests some potential for contribution.",
+      "PotentialConcerns": "His focus is not directly aligned with current needs.",
+      "OverallRecommendation": {
+        "Score": "4",
+        "Reason": "Offers a unique perspective, though not directly relevant."
+      }
+    }
+  },
+  {
+    "Name": "Mathieu Vergnat",
+    "ID": "1892762",
+    "Rank": 12,
+    "Reasons": {
+      "ExpertiseRelevance": "While his expertise in cardiovascular surgery is not directly relevant, insights into systemic healthcare issues may be beneficial.",
+      "SignificanceAndNovelty": "Could contribute to understanding systemic factors affecting physician engagement.",
+      "FairnessCriteria": "Promotes racial diversity.",
+      "AcceptanceReasons": "His respectable H-index suggests potential for valuable input.",
+      "PotentialConcerns": "Expertise does not directly align with key project needs.",
+      "OverallRecommendation": {
+        "Score": "4",
+        "Reason": "Indirectly relevant to understanding systemic healthcare issues."
+      }
+    }
+  },
+  {
+    "Name": "Andrey Tovchigrechko",
+    "ID": "1452607",
+    "Rank": 13,
+    "Reasons": {
+      "ExpertiseRelevance": "Andrey Tovchigrechko\u2019s background in molecular pharmacology is not directly applicable but could offer insights into healthcare processes.",
+      "SignificanceAndNovelty": "His research may inspire innovative approaches.",
+      "FairnessCriteria": "Contributes to racial diversity.",
+      "AcceptanceReasons": "His H-index indicates moderate potential for contribution.",
+      "PotentialConcerns": "His expertise is largely unrelated to the project\u2019s core needs.",
+      "OverallRecommendation": {
+        "Score": "3",
+        "Reason": "Offers potential for novel insights, though not directly applicable."
+      }
+    }
+  },
+  {
+    "Name": "Eliza C Small",
+    "ID": "1656173",
+    "Rank": 14,
+    "Reasons": {
+      "ExpertiseRelevance": "Her experience in biochemistry provides limited direct relevance to the project\u2019s needs.",
+      "SignificanceAndNovelty": "Could offer cross-disciplinary insights.",
+      "FairnessCriteria": "Supports gender diversity.",
+      "AcceptanceReasons": "Her H-index suggests potential for valuable input.",
+      "PotentialConcerns": "Her expertise does not align well with key project areas.",
+      "OverallRecommendation": {
+        "Score": "3",
+        "Reason": "Limited direct relevance but may offer cross-disciplinary insights."
+      }
+    }
+  },
+  {
+    "Name": "Nadia Dahmane",
+    "ID": "11079722",
+    "Rank": 15,
+    "Reasons": {
+      "ExpertiseRelevance": "Her work in cell biology and cancer research is not directly relevant to the project.",
+      "SignificanceAndNovelty": "Her research could inspire innovative data analysis techniques.",
+      "FairnessCriteria": "Supports gender diversity.",
+      "AcceptanceReasons": "Her high H-index indicates a strong academic impact.",
+      "PotentialConcerns": "Her expertise does not align with the project's needs.",
+      "OverallRecommendation": {
+        "Score": "3",
+        "Reason": "Highly accomplished, but expertise is not directly relevant."
+      }
+    }
+  },
+  {
+    "Name": "J C Wallenburg",
+    "ID": "2043092",
+    "Rank": 16,
+    "Reasons": {
+      "ExpertiseRelevance": "His work in genetics is not directly relevant to the project\u2019s needs.",
+      "SignificanceAndNovelty": "Lacks direct applicability to the identified expertise gaps.",
+      "FairnessCriteria": "No specific diversity contribution identified.",
+      "AcceptanceReasons": "His H-index suggests he has some academic influence.",
+      "PotentialConcerns": "His work does not align with the project's objectives.",
+      "OverallRecommendation": {
+        "Score": "2",
+        "Reason": "Limited direct relevance to the project's needs."
+      }
+    }
+  },
+  {
+    "Name": "A W Crompton",
+    "ID": "6457800",
+    "Rank": 17,
+    "Reasons": {
+      "ExpertiseRelevance": "His focus on mastication and feeding is largely unrelated to healthcare or engagement strategies.",
+      "SignificanceAndNovelty": "Provides limited direct value to the project.",
+      "FairnessCriteria": "Contributes to racial diversity.",
+      "AcceptanceReasons": "His H-index indicates a degree of academic respect.",
+      "PotentialConcerns": "His expertise is not aligned with project needs.",
+      "OverallRecommendation": {
+        "Score": "2",
+        "Reason": "Very limited relevance to the project."
+      }
+    }
+  },
+  {
+    "Name": "Philip Diller",
+    "ID": "4666089",
+    "Rank": 18,
+    "Reasons": {
+      "ExpertiseRelevance": "His work in family medicine could indirectly contribute to physician engagement.",
+      "SignificanceAndNovelty": "Provides limited direct support for the project's key areas.",
+      "FairnessCriteria": "No significant diversity contribution identified.",
+      "AcceptanceReasons": "His H-index suggests modest academic influence.",
+      "PotentialConcerns": "His primary focus does not align with key project areas.",
+      "OverallRecommendation": {
+        "Score": "2",
+        "Reason": "Limited relevance to core project needs."
+      }
+    }
+  },
+  {
+    "Name": "Srdjan Djurovic",
+    "ID": "3769777",
+    "Rank": 19,
+    "Reasons": {
+      "ExpertiseRelevance": "His expertise in medical genetics is not aligned with the project's needs.",
+      "SignificanceAndNovelty": "Offers little direct support for the identified expertise gaps.",
+      "FairnessCriteria": "Contributes to racial diversity.",
+      "AcceptanceReasons": "His high H-index suggests a strong academic presence.",
+      "PotentialConcerns": "His expertise is not relevant to the current project.",
+      "OverallRecommendation": {
+        "Score": "1",
+        "Reason": "Highly accomplished but irrelevant expertise."
+      }
+    }
+  },
+  {
+    "Name": "Vsevolod J Makeev",
+    "ID": "3032138",
+    "Rank": 20,
+    "Reasons": {
+      "ExpertiseRelevance": "His work in molecular biology is not relevant to healthcare or engagement strategies.",
+      "SignificanceAndNovelty": "Does not address any of the identified expertise gaps.",
+      "FairnessCriteria": "Contributes to racial diversity.",
+      "AcceptanceReasons": "His H-index suggests some academic influence.",
+      "PotentialConcerns": "Expertise is not applicable to project needs.",
+      "OverallRecommendation": {
+        "Score": "1",
+        "Reason": "Does not address the project's expertise gaps."
+      }
+    }
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "total_ranked_candidates": 20,
+  "ranked_collaborators": [
+    "2230889",
+    "4606059",
+    "6488426",
+    "3769777",
+    "3032138",
+    "10339290",
+    "9984250",
+    "2043092",
+    "1656173",
+    "9753945",
+    "1466422",
+    "11332788",
+    "8467324",
+    "12389552",
+    "4666089",
+    "11079722",
+    "2043092",
+    "6457800",
+    "1452607",
+    "1892762"
+  ],
+  "random_collaborators": [
+    "4666089",
+    "6457800",
+    "1892762",
+    "3769777",
+    "1656173",
+    "3032138",
+    "1452607",
+    "2043092",
+    "8467324",
+    "11079722"
+  ],
+  "num_random_collaborators_found": 11,
+  "found_ranks": [
+    4,
+    5,
+    8,
+    9,
+    13,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "average_rank": 13.090909090909092,
+  "repetitive_elements": [
+    "2043092"
+  ],
+  "ranked_collaborators_file": "/data/jx4237data/Graph-CoT/Pipeline/testing/new_results/test1_keywords/03/collaborator_ranking_results_12679507_20240815_004440.json"
+}

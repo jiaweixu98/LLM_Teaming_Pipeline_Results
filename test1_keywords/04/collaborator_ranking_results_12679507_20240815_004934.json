@@ -1,0 +1,322 @@
+[
+  {
+    "name": "Deborah J Cohen",
+    "ID": "4551382",
+    "Rank": 1,
+    "Reasons": {
+      "ExpertiseRelevance": "Deborah J Cohen excels in mixed-methods research design, having significant experience in analyzing patient-physician interactions and healthcare processes. Her expertise directly fills the gap in mixed-methods research design, one of the project's key areas for improvement.",
+      "SignificanceAndNovelty": "Her work in studying the dynamics of physician-patient interactions provides valuable insights for physician engagement strategies, potentially enhancing project outcomes in new and significant ways.",
+      "FairnessCriteria": "Including Cohen contributes to gender diversity, as she is one of the female candidates with extensive relevant expertise.",
+      "AcceptanceReasons": "The alignment of her research with the needed expertise gaps and her high h-index of 33 signify her potential substantial impact on the project.",
+      "PotentialConcerns": "There are minimal risks associated with her involvement, although balancing her obligations might be necessary if engaged with multiple projects.",
+      "OverallRecommendation": {
+        "Score": 10,
+        "Reason": "Highly relevant expertise in mixed-methods and healthcare qualitative analysis with a strong track record."
+      }
+    }
+  },
+  {
+    "name": "Sophie Staniszewska",
+    "ID": "9189496",
+    "Rank": 2,
+    "Reasons": {
+      "ExpertiseRelevance": "Sophie Staniszewska brings expertise in qualitative data analysis in healthcare by focusing on patient expectations and satisfaction, which is essential to the project's qualitative analysis needs.",
+      "SignificanceAndNovelty": "Her innovative work in patient perspectives can uniquely enhance the project, offering fresh qualitative approaches.",
+      "FairnessCriteria": "Her involvement would not significantly alter the current diversity in terms of race but adds gender diversity.",
+      "AcceptanceReasons": "Strong alignment with qualitative analysis needs and an impressive h-index of 27 support her inclusion.",
+      "PotentialConcerns": "Potential geographical constraints due to her UK-based affiliation could require flexible collaboration arrangements.",
+      "OverallRecommendation": {
+        "Score": 9,
+        "Reason": "Excellent fit for qualitative data analysis with strong methodological background."
+      }
+    }
+  },
+  {
+    "name": "Nadia Dahmane",
+    "ID": "11079722",
+    "Rank": 3,
+    "Reasons": {
+      "ExpertiseRelevance": "Nadia Dahmane's extensive work in healthcare and biological processes, particularly her understanding of complex signaling pathways, can inform physician engagement strategies indirectly through understanding complex systems.",
+      "SignificanceAndNovelty": "Her oncological and developmental biology insights might introduce novel frameworks for understanding complex healthcare systems.",
+      "FairnessCriteria": "Offers gender diversity while enhancing racial representation with her white background, though not enhancing racial diversity.",
+      "AcceptanceReasons": "Her seniority and expertise in complex systems can bring depth to engagement strategies.",
+      "PotentialConcerns": "While her expertise is more tangential, it provides fresh perspectives on complex systemic analysis.",
+      "OverallRecommendation": {
+        "Score": 8,
+        "Reason": "Indirectly relevant expertise with significant potential for advancing system-level understanding."
+      }
+    }
+  },
+  {
+    "name": "Melinda M Davis",
+    "ID": "13312903",
+    "Rank": 4,
+    "Reasons": {
+      "ExpertiseRelevance": "Melinda M Davis offers expertise in mixed-methods research design, complementing the needs for integrative data analysis techniques in healthcare.",
+      "SignificanceAndNovelty": "Her research presents opportunities for employing mixed methods to innovate within healthcare contexts, potentially ameliorating project gaps.",
+      "FairnessCriteria": "Adds both gender and potentially new age diversity elements, although her racial background is not specified.",
+      "AcceptanceReasons": "Her consistent output in integrative research approaches aligns with the project's methodological demands.",
+      "PotentialConcerns": "Her ability to focus could be limited by other collaborative commitments, impacting project priority.",
+      "OverallRecommendation": {
+        "Score": 8,
+        "Reason": "Key role in mixed-methods application with strong collaborative track record."
+      }
+    }
+  },
+  {
+    "name": "Andrey Tovchigrechko",
+    "ID": "1452607",
+    "Rank": 5,
+    "Reasons": {
+      "ExpertiseRelevance": "While primarily focused on protein interactions, Tovchigrechko's experience in cellular and molecular pharmacology presents analytical skills pertinent to complex qualitative data analysis.",
+      "SignificanceAndNovelty": "Potential to apply his advanced analysis techniques to healthcare data provides an innovative crossover possibility.",
+      "FairnessCriteria": "Offers representation from a Russian-American perspective, contributing to the diversity of international viewpoints.",
+      "AcceptanceReasons": "Analytical depth in data treatments and potential impact through novel analytic frameworks are valuable.",
+      "PotentialConcerns": "His expertise might need complementary skills to fully integrate into the team\u2019s qualitative focus.",
+      "OverallRecommendation": {
+        "Score": 7,
+        "Reason": "Provides novel methodological approaches beneficial in data analysis."
+      }
+    }
+  },
+  {
+    "name": "Srdjan Djurovic",
+    "ID": "3769777",
+    "Rank": 6,
+    "Reasons": {
+      "ExpertiseRelevance": "Srdjan Djurovic lacks direct healthcare qualitative analysis experience but exhibits strong systematic analysis capabilities transferable to mixed-methods designs.",
+      "SignificanceAndNovelty": "His genetic and epidemiological insight offers methodological rigor advantageous for mixed methods.",
+      "FairnessCriteria": "Recognition from Europe introduces diverse perspectives though not enhancing racial diversity broadly.",
+      "AcceptanceReasons": "His systematic analytical skills enhance the project\u2019s methodological rigor.",
+      "PotentialConcerns": "Limited direct relevance to healthcare qualitative data might require additional familiarization.",
+      "OverallRecommendation": {
+        "Score": 7,
+        "Reason": "Highly analytical, suitable for mixed-methods contributions with necessary domain adaptation."
+      }
+    }
+  },
+  {
+    "name": "Sophie Staniszewska",
+    "ID": "9189496",
+    "Rank": 7,
+    "Reasons": {
+      "ExpertiseRelevance": "Craig Kuziemsky\u2019s health informatics background contributes indirectly to qualitative data analysis in healthcare, particularly in system efficiencies and analysis.",
+      "SignificanceAndNovelty": "His approach to analyzing healthcare information systems can innovate current project frameworks by introducing systems-thinking in qualitative analysis.",
+      "FairnessCriteria": "Based in Canada, he provides engagements from another North American cultural perspective.",
+      "AcceptanceReasons": "His informatics expertise provides foundational insights into data analytics that support qualitative analysis.",
+      "PotentialConcerns": "Primarily technological approaches necessitate stronger involvement in qualitative methodology understanding.",
+      "OverallRecommendation": {
+        "Score": 6,
+        "Reason": "Adds value through informatic approaches in healthcare, suitable for supporting roles."
+      }
+    }
+  },
+  {
+    "name": "Philip Diller",
+    "ID": "4666089",
+    "Rank": 8,
+    "Reasons": {
+      "ExpertiseRelevance": "Philip Diller, through family medicine, engages practical aspects of physician engagement strategies, supportive of collaborative healthcare settings.",
+      "SignificanceAndNovelty": "His direct practice experience translates into applicable knowledge for understanding physician-patient relationship dynamics.",
+      "FairnessCriteria": "Introduces an experienced male viewpoint within the medical profession, complementing existing team dynamics.",
+      "AcceptanceReasons": "His pragmatic insights could bridge theory and practice effectively, enhancing engagement strategies.",
+      "PotentialConcerns": "Potential focus on clinical over research could limit methodological innovation benefits.",
+      "OverallRecommendation": {
+        "Score": 6,
+        "Reason": "Practically relevant with potential limitations in methodological innovations."
+      }
+    }
+  },
+  {
+    "name": "Paul Meissner",
+    "ID": "6365250",
+    "Rank": 9,
+    "Reasons": {
+      "ExpertiseRelevance": "Paul Meissner\u2019s work in family medicine social contexts provides insights for physician engagement strategies with potential qualitative overlaps.",
+      "SignificanceAndNovelty": "His emphasis on geriatric functional status introduces valuable perspectives on patient care quality, although less directly on comprehensive qualitative methodologies.",
+      "FairnessCriteria": "Offers insights from a white male within diverse patient demographics through a socially-focused lens.",
+      "AcceptanceReasons": "Brings practical healthcare improvement concepts that can support developmental stages in research methodologies.",
+      "PotentialConcerns": "Limited impact on advancing qualitative data specifics without further methodological reinforcement.",
+      "OverallRecommendation": {
+        "Score": 6,
+        "Reason": "Supports practical engagement without core qualitative or methodological enhancements."
+      }
+    }
+  },
+  {
+    "name": "Eduard Nedea",
+    "ID": "8467324",
+    "Rank": 10,
+    "Reasons": {
+      "ExpertiseRelevance": "Nedea\u2019s genetic research indirectly addresses data analysis complexity, contributing marginally to healthcare qualitative data processing comprehension.",
+      "SignificanceAndNovelty": "His expertise provides innovative outlooks on complex biological systems adaptable to healthcare settings, though less focused directly on qualitative methods.",
+      "FairnessCriteria": "Hispanic background enriches cultural diversity, aligning with inclusive research practices.",
+      "AcceptanceReasons": "Analogous methodologies in handling complex datasets may offer auxiliary frameworks.",
+      "PotentialConcerns": "The gap in specific qualitative healthcare analysis remains unless collaboration integrates adapted frameworks.",
+      "OverallRecommendation": {
+        "Score": 5,
+        "Reason": "Relevant in complex data handling but needs contextual application in healthcare."
+      }
+    }
+  },
+  {
+    "name": "Eliza C Small",
+    "ID": "1656173",
+    "Rank": 11,
+    "Reasons": {
+      "ExpertiseRelevance": "Specializing in biochemistry, Small\u2019s methodological rigor supports analytic strategies within healthcare but less within qualitative paradigms.",
+      "SignificanceAndNovelty": "Her assay development adds depth to analytical approaches albeit outside primary qualitative needs.",
+      "FairnessCriteria": "Enhances gender diversity with scientific precision backing from healthcare-related biochemistry fields.",
+      "AcceptanceReasons": "Strengthens analytical framework through high precision techniques valuable in comprehensive data projects.",
+      "PotentialConcerns": "Potential deficiency in relevant qualitative data integration necessitates bridging with targeted approaches.",
+      "OverallRecommendation": {
+        "Score": 5,
+        "Reason": "Strong analytics with limited direct applicability to qualitative gaps."
+      }
+    }
+  },
+  {
+    "name": "Carolyn Petersen",
+    "ID": "1030820",
+    "Rank": 12,
+    "Reasons": {
+      "ExpertiseRelevance": "Petersen\u2019s work intersects healthcare quality information but primarily aligns with electronic data systems rather than direct qualitative analysis.",
+      "SignificanceAndNovelty": "Her insights into data quality could assure robustness across project data processes.",
+      "FairnessCriteria": "Contributes gender diversity, extending technical expertise perspectives associated with healthcare data assurance.",
+      "AcceptanceReasons": "Ensures data quality through structured information methodologies, albeit less quantitative applicability.",
+      "PotentialConcerns": "Focus more on data quality and technology rather than addressing the primary qualitative analysis gap.",
+      "OverallRecommendation": {
+        "Score": 5,
+        "Reason": "Beneficial for data quality assurance without core qualitative skillsets."
+      }
+    }
+  },
+  {
+    "name": "J C Wallenburg",
+    "ID": "2043092",
+    "Rank": 13,
+    "Reasons": {
+      "ExpertiseRelevance": "Wallenburg\u2019s genetic backgrounds offer foundational insights for data-driven healthcare projects, indirectly contributing qualitative robustness.",
+      "SignificanceAndNovelty": "Her work with genetic data management can provide structured insights into comprehensive data processing frameworks.",
+      "FairnessCriteria": "Insufficient detailed diversity contributions given incomplete age and race specifics.",
+      "AcceptanceReasons": "Advances project data integrity through robust data methodologies adaptable to various formats.",
+      "PotentialConcerns": "Limited qualitative focus necessitates complementary engagements to close primary expertise gaps.",
+      "OverallRecommendation": {
+        "Score": 4,
+        "Reason": "Genetic methodology bridges quantitative insights, less impactful on core project qualitative needs."
+      }
+    }
+  },
+  {
+    "name": "Alan Richmond",
+    "ID": "7217001",
+    "Rank": 14,
+    "Reasons": {
+      "ExpertiseRelevance": "Richmond offers intersectional public health insights indirectly related to physician engagement, aligning minimally with project\u2019s primary healthcare focal areas.",
+      "SignificanceAndNovelty": "His contributions from cardiovascular and public health environments bring interdisciplinary approaches contextualizing broader healthcare fields.",
+      "FairnessCriteria": "Represents diverse academic sectors enhancing intersectional analytical viewpoints.",
+      "AcceptanceReasons": "Contributes through cross-contextual public health insights applicable in broader research segments.",
+      "PotentialConcerns": "Lacks direct relevance to main qualitative gaps requiring specific methodological focus for optimal utility.",
+      "OverallRecommendation": {
+        "Score": 4,
+        "Reason": "Valuable interdisciplinary reach with limited focus on current key qualitative needs."
+      }
+    }
+  },
+  {
+    "name": "Bowen Chung",
+    "ID": "7022786",
+    "Rank": 15,
+    "Reasons": {
+      "ExpertiseRelevance": "Focused on neuropsychiatric studies, Chung\u2019s research lacks direct correlations to current project gaps, requiring extrapolation beyond main scope areas.",
+      "SignificanceAndNovelty": "Opportunities reside in neuropsychiatric learning methodologies impacting adjacent healthcare analytical methods.",
+      "FairnessCriteria": "Adds perspectives within human-centered psychologies, enriching team diversity facets across psychological research.",
+      "AcceptanceReasons": "Neuropsychiatric focus introduces new interpretative perspectives that complement healthcare ideas marginally.",
+      "PotentialConcerns": "Currently, engagement outside project\u2019s direct English objectives yields limited immediate applicability.",
+      "OverallRecommendation": {
+        "Score": 3,
+        "Reason": "Generates lateral innovations, not directly advancing primary healthcare qualitative objectives."
+      }
+    }
+  },
+  {
+    "name": "Carolyn Petersen",
+    "ID": "1030820",
+    "Rank": 16,
+    "Reasons": {
+      "ExpertiseRelevance": "Petersen\u2019s expertise primarily lies in health information technologies which does not align strongly with the qualitative analysis focus required by the project.",
+      "SignificanceAndNovelty": "Health information quality insights may add structural support though not core subject novelty.",
+      "FairnessCriteria": "General diversity contributions without significant alteration in team demographics due to unknown racial specifics.",
+      "AcceptanceReasons": "Technology-driven insights reinforce data management processes, albeit tangentially beneficial to qualitative issues.",
+      "PotentialConcerns": "Her focus on health information quality and technology rather than qualitative data analysis is a primary limitation.",
+      "OverallRecommendation": {
+        "Score": 3,
+        "Reason": "Technical expertise offers peripheral support, less relevant to immediate qualitative aims."
+      }
+    }
+  },
+  {
+    "name": "Steven E Labkoff",
+    "ID": "9016570",
+    "Rank": 17,
+    "Reasons": {
+      "ExpertiseRelevance": "Labkoff's expertise focuses primarily on clinical digital integration, lacking strong ties to immediate qualitative research data needs.",
+      "SignificanceAndNovelty": "Emphasizes technological interfaces rather than methodological qualitative insights.",
+      "FairnessCriteria": "Offers insights from Boston which contribute to geographical diversity without distinctly altering demographic composition.",
+      "AcceptanceReasons": "His digital integration insights may aid structural interface robustness, contributing to tangential technological methods.",
+      "PotentialConcerns": "Core contribution outside qualitative analysis and engagement strategies sets constraints on effective engagement.",
+      "OverallRecommendation": {
+        "Score": 3,
+        "Reason": "Technological focus offers marginal support for core qualitative needs."
+      }
+    }
+  },
+  {
+    "name": "Mathieu Vergnat",
+    "ID": "1892762",
+    "Rank": 18,
+    "Reasons": {
+      "ExpertiseRelevance": "Vergnat\u2019s work in cardiovascular surgery lacks direct alignment with identified project keywords, making his contribution highly specific to unrelated fields.",
+      "SignificanceAndNovelty": "Potentially introduces surgical perspectives but without the qualitative methodological focus needed here.",
+      "FairnessCriteria": "His French background adds European context diversity but provides limited relevance to immediate project goals racially.",
+      "AcceptanceReasons": "Expands breadth in procedural and surgical data, yet lacks core qualitative application potential.",
+      "PotentialConcerns": "Primary procedural focus limits immediate impact on qualitative analysis or engagement strategies.",
+      "OverallRecommendation": {
+        "Score": 2,
+        "Reason": "Surgical expertise is contextually limited for primary project objectives."
+      }
+    }
+  },
+  {
+    "name": "Kate Marie",
+    "ID": "9297818",
+    "Rank": 19,
+    "Reasons": {
+      "ExpertiseRelevance": "Kate Marie does not exhibit specific expertise aligning with the key qualitative or methodological healthcare issues needed for the current project.",
+      "SignificanceAndNovelty": "Her background lacks significant impact in terms of novel contributions to specifically targeted project insights or methodologies.",
+      "FairnessCriteria": "Offers limited diversity enhancements or substantial demographic contributions due to lack of detailed specifics.",
+      "AcceptanceReasons": "General healthcare focus indirectly complements broader engagement discussions but lacks qualitative depth.",
+      "PotentialConcerns": "Primary expertise gap in the defined requirements, reducing direct applicability and impact.",
+      "OverallRecommendation": {
+        "Score": 2,
+        "Reason": "Lacks defined expertise for addressing core project gaps."
+      }
+    }
+  },
+  {
+    "name": "A W Crompton",
+    "ID": "6457800",
+    "Rank": 20,
+    "Reasons": {
+      "ExpertiseRelevance": "Crompton\u2019s biological and masticatory coordination research is not directly aligned with the healthcare qualitative analysis needed for the project.",
+      "SignificanceAndNovelty": "His evolutionary insight offers limited new direction for healthcare focus required herein.",
+      "FairnessCriteria": "Provides longstanding experience, though without significant immediate impact on team demographic diversity add.",
+      "AcceptanceReasons": "Historical physiological biology insights contribute educational frameworks but little in specific healthcare data strategies.",
+      "PotentialConcerns": "Significant thematic differences with project focus result in minor alignment risks for main objectives.",
+      "OverallRecommendation": {
+        "Score": 1,
+        "Reason": "Misalignment in thematic focus reduces direct contribution to project strategy."
+      }
+    }
+  }
+]

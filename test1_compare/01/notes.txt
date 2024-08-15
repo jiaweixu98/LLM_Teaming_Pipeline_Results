@@ -1,0 +1,19 @@
+
+2024-08-15 01:09:42,106 - INFO - Ranked Collaborator IDs: ['4606059', '9189496', '4551382', '9753945', '13312903', '1030820', '11079722', '2230889', '7569831', '10339290', '8467324', '6365250', '1452607', '3032138', '4666089', '1656173', '1892762', '3769777', '2043092', '6457800']
+2024-08-15 01:09:42,108 - INFO - Total number of ranked candidates: 20
+2024-08-15 01:09:42,109 - INFO - Repetitive elements in ranked collaborators: []
+2024-08-15 01:09:42,110 - INFO - Calculating average rank for random collaborators...
+2024-08-15 01:09:42,111 - INFO - Random Collaborator: 11079722 found at Rank: 7
+2024-08-15 01:09:42,112 - INFO - Random Collaborator: 8467324 found at Rank: 11
+2024-08-15 01:09:42,112 - INFO - Random Collaborator: 1452607 found at Rank: 13
+2024-08-15 01:09:42,113 - INFO - Random Collaborator: 3032138 found at Rank: 14
+2024-08-15 01:09:42,114 - INFO - Random Collaborator: 4666089 found at Rank: 15
+2024-08-15 01:09:42,115 - INFO - Random Collaborator: 1656173 found at Rank: 16
+2024-08-15 01:09:42,116 - INFO - Random Collaborator: 1892762 found at Rank: 17
+2024-08-15 01:09:42,117 - INFO - Random Collaborator: 3769777 found at Rank: 18
+2024-08-15 01:09:42,117 - INFO - Random Collaborator: 2043092 found at Rank: 19
+2024-08-15 01:09:42,118 - INFO - Random Collaborator: 6457800 found at Rank: 20
+2024-08-15 01:09:42,119 - INFO - Number of Random Collaborators found: 10
+2024-08-15 01:09:42,120 - INFO - Average Rank of Random Collaborators: 15.0
+2024-08-15 01:09:42,125 - INFO - Evaluation completed. Average Rank: 15.0
+No repetitive elements found in the list.
